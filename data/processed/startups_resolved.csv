@@ -1,0 +1,1001 @@
+schemaVersion,recordType,source_name,source_url,entityName,employeeCount,collectedAt
+1.0,STARTUP,Official Company Website,https://openai.com,OpenAI,,2026-09-03T16:43:03.758208+00:00
+1.0,STARTUP,Official Company Website,https://www.anthropic.com,Anthropic,,2026-09-03T16:43:03.761030+00:00
+1.0,STARTUP,Official Company Website,https://www.perplexity.ai,Perplexity,,2026-09-03T16:43:03.761084+00:00
+1.0,STARTUP,Official Company Website,https://cohere.com,Cohere,,2026-09-03T16:43:03.761119+00:00
+1.0,STARTUP,Official Company Website,https://mistral.ai,Mistral AI,,2026-09-03T16:43:03.761150+00:00
+1.0,STARTUP,Official Company Website,https://huggingface.co,Hugging Face,,2026-09-03T16:43:03.761180+00:00
+1.0,STARTUP,Official Company Website,https://stability.ai,Stability AI,,2026-09-03T16:43:03.761218+00:00
+1.0,STARTUP,Official Company Website,https://www.midjourney.com,Midjourney,,2026-09-03T16:43:03.761249+00:00
+1.0,STARTUP,Official Company Website,https://runwayml.com,Runway,,2026-09-03T16:43:03.761277+00:00
+1.0,STARTUP,Official Company Website,https://elevenlabs.io,ElevenLabs,,2026-09-03T16:43:03.761306+00:00
+1.0,STARTUP,Official Company Website,https://scale.com,Scale AI,,2026-09-03T16:43:03.761334+00:00
+1.0,STARTUP,Official Company Website,https://x.ai,xAI,,2026-09-03T16:43:03.761363+00:00
+1.0,STARTUP,Official Company Website,https://deepmind.google,DeepMind,,2026-09-03T16:43:03.761391+00:00
+1.0,STARTUP,Official Company Website,https://www.together.ai,Together AI,,2026-09-03T16:43:03.761419+00:00
+1.0,STARTUP,Official Company Website,https://www.glean.com,Glean,,2026-09-03T16:43:03.761447+00:00
+1.0,STARTUP,Official Company Website,https://www.adept.ai,Adept,,2026-09-03T16:43:03.761479+00:00
+1.0,STARTUP,Official Company Website,https://character.ai,Character AI,,2026-09-03T16:43:03.761509+00:00
+1.0,STARTUP,Official Company Website,https://pika.art,Pika Labs,,2026-09-03T16:43:03.761537+00:00
+1.0,STARTUP,Official Company Website,https://replit.com,Replit,,2026-09-03T16:43:03.761565+00:00
+1.0,STARTUP,Official Company Website,https://wandb.ai,Weights & Biases,,2026-09-03T16:43:03.761592+00:00
+1.0,STARTUP,Official Company Website,https://openai.com,OpenAI,,2026-09-03T16:43:03.761620+00:00
+1.0,STARTUP,Official Company Website,https://www.anthropic.com,Anthropic,,2026-09-03T16:43:03.761647+00:00
+1.0,STARTUP,Official Company Website,https://www.perplexity.ai,Perplexity,,2026-09-03T16:43:03.761674+00:00
+1.0,STARTUP,Official Company Website,https://cohere.com,Cohere,,2026-09-03T16:43:03.761701+00:00
+1.0,STARTUP,Official Company Website,https://mistral.ai,Mistral AI,,2026-09-03T16:43:03.761728+00:00
+1.0,STARTUP,Official Company Website,https://huggingface.co,Hugging Face,,2026-09-03T16:43:03.761761+00:00
+1.0,STARTUP,Official Company Website,https://stability.ai,Stability AI,,2026-09-03T16:43:03.761792+00:00
+1.0,STARTUP,Official Company Website,https://www.midjourney.com,Midjourney,,2026-09-03T16:43:03.761820+00:00
+1.0,STARTUP,Official Company Website,https://runwayml.com,Runway,,2026-09-03T16:43:03.761854+00:00
+1.0,STARTUP,Official Company Website,https://elevenlabs.io,ElevenLabs,,2026-09-03T16:43:03.761882+00:00
+1.0,STARTUP,Official Company Website,https://scale.com,Scale AI,,2026-09-03T16:43:03.761911+00:00
+1.0,STARTUP,Official Company Website,https://x.ai,xAI,,2026-09-03T16:43:03.761938+00:00
+1.0,STARTUP,Official Company Website,https://deepmind.google,DeepMind,,2026-09-03T16:43:03.761965+00:00
+1.0,STARTUP,Official Company Website,https://www.together.ai,Together AI,,2026-09-03T16:43:03.761992+00:00
+1.0,STARTUP,Official Company Website,https://www.glean.com,Glean,,2026-09-03T16:43:03.762019+00:00
+1.0,STARTUP,Official Company Website,https://www.adept.ai,Adept,,2026-09-03T16:43:03.762051+00:00
+1.0,STARTUP,Official Company Website,https://character.ai,Character AI,,2026-09-03T16:43:03.762081+00:00
+1.0,STARTUP,Official Company Website,https://pika.art,Pika Labs,,2026-09-03T16:43:03.762109+00:00
+1.0,STARTUP,Official Company Website,https://replit.com,Replit,,2026-09-03T16:43:03.762136+00:00
+1.0,STARTUP,Official Company Website,https://wandb.ai,Weights & Biases,,2026-09-03T16:43:03.762168+00:00
+1.0,STARTUP,Official Company Website,https://openai.com,OpenAI,,2026-09-03T16:43:03.762196+00:00
+1.0,STARTUP,Official Company Website,https://www.anthropic.com,Anthropic,,2026-09-03T16:43:03.762224+00:00
+1.0,STARTUP,Official Company Website,https://www.perplexity.ai,Perplexity,,2026-09-03T16:43:03.762251+00:00
+1.0,STARTUP,Official Company Website,https://cohere.com,Cohere,,2026-09-03T16:43:03.762278+00:00
+1.0,STARTUP,Official Company Website,https://mistral.ai,Mistral AI,,2026-09-03T16:43:03.762305+00:00
+1.0,STARTUP,Official Company Website,https://huggingface.co,Hugging Face,,2026-09-03T16:43:03.762332+00:00
+1.0,STARTUP,Official Company Website,https://stability.ai,Stability AI,,2026-09-03T16:43:03.762359+00:00
+1.0,STARTUP,Official Company Website,https://www.midjourney.com,Midjourney,,2026-09-03T16:43:03.762386+00:00
+1.0,STARTUP,Official Company Website,https://runwayml.com,Runway,,2026-09-03T16:43:03.762412+00:00
+1.0,STARTUP,Official Company Website,https://elevenlabs.io,ElevenLabs,,2026-09-03T16:43:03.762440+00:00
+1.0,STARTUP,Official Company Website,https://scale.com,Scale AI,,2026-09-03T16:43:03.762467+00:00
+1.0,STARTUP,Official Company Website,https://x.ai,xAI,,2026-09-03T16:43:03.762494+00:00
+1.0,STARTUP,Official Company Website,https://deepmind.google,DeepMind,,2026-09-03T16:43:03.762521+00:00
+1.0,STARTUP,Official Company Website,https://www.together.ai,Together AI,,2026-09-03T16:43:03.762548+00:00
+1.0,STARTUP,Official Company Website,https://www.glean.com,Glean,,2026-09-03T16:43:03.762579+00:00
+1.0,STARTUP,Official Company Website,https://www.adept.ai,Adept,,2026-09-03T16:43:03.762607+00:00
+1.0,STARTUP,Official Company Website,https://character.ai,Character AI,,2026-09-03T16:43:03.762635+00:00
+1.0,STARTUP,Official Company Website,https://pika.art,Pika Labs,,2026-09-03T16:43:03.762663+00:00
+1.0,STARTUP,Official Company Website,https://replit.com,Replit,,2026-09-03T16:43:03.762691+00:00
+1.0,STARTUP,Official Company Website,https://wandb.ai,Weights & Biases,,2026-09-03T16:43:03.762718+00:00
+1.0,STARTUP,Official Company Website,https://openai.com,OpenAI,,2026-09-03T16:43:03.762745+00:00
+1.0,STARTUP,Official Company Website,https://www.anthropic.com,Anthropic,,2026-09-03T16:43:03.762772+00:00
+1.0,STARTUP,Official Company Website,https://www.perplexity.ai,Perplexity,,2026-09-03T16:43:03.762799+00:00
+1.0,STARTUP,Official Company Website,https://cohere.com,Cohere,,2026-09-03T16:43:03.762826+00:00
+1.0,STARTUP,Official Company Website,https://mistral.ai,Mistral AI,,2026-09-03T16:43:03.762856+00:00
+1.0,STARTUP,Official Company Website,https://huggingface.co,Hugging Face,,2026-09-03T16:43:03.762887+00:00
+1.0,STARTUP,Official Company Website,https://stability.ai,Stability AI,,2026-09-03T16:43:03.762914+00:00
+1.0,STARTUP,Official Company Website,https://www.midjourney.com,Midjourney,,2026-09-03T16:43:03.762941+00:00
+1.0,STARTUP,Official Company Website,https://runwayml.com,Runway,,2026-09-03T16:43:03.762967+00:00
+1.0,STARTUP,Official Company Website,https://elevenlabs.io,ElevenLabs,,2026-09-03T16:43:03.762994+00:00
+1.0,STARTUP,Official Company Website,https://scale.com,Scale AI,,2026-09-03T16:43:03.763021+00:00
+1.0,STARTUP,Official Company Website,https://x.ai,xAI,,2026-09-03T16:43:03.763047+00:00
+1.0,STARTUP,Official Company Website,https://deepmind.google,DeepMind,,2026-09-03T16:43:03.763074+00:00
+1.0,STARTUP,Official Company Website,https://www.together.ai,Together AI,,2026-09-03T16:43:03.763101+00:00
+1.0,STARTUP,Official Company Website,https://www.glean.com,Glean,,2026-09-03T16:43:03.763132+00:00
+1.0,STARTUP,Official Company Website,https://www.adept.ai,Adept,,2026-09-03T16:43:03.763165+00:00
+1.0,STARTUP,Official Company Website,https://character.ai,Character AI,,2026-09-03T16:43:03.763193+00:00
+1.0,STARTUP,Official Company Website,https://pika.art,Pika Labs,,2026-09-03T16:43:03.763224+00:00
+1.0,STARTUP,Official Company Website,https://replit.com,Replit,,2026-09-03T16:43:03.763251+00:00
+1.0,STARTUP,Official Company Website,https://wandb.ai,Weights & Biases,,2026-09-03T16:43:03.763278+00:00
+1.0,STARTUP,Official Company Website,https://openai.com,OpenAI,,2026-09-03T16:43:03.763304+00:00
+1.0,STARTUP,Official Company Website,https://www.anthropic.com,Anthropic,,2026-09-03T16:43:03.763331+00:00
+1.0,STARTUP,Official Company Website,https://www.perplexity.ai,Perplexity,,2026-09-03T16:43:03.763358+00:00
+1.0,STARTUP,Official Company Website,https://cohere.com,Cohere,,2026-09-03T16:43:03.763384+00:00
+1.0,STARTUP,Official Company Website,https://mistral.ai,Mistral AI,,2026-09-03T16:43:03.763410+00:00
+1.0,STARTUP,Official Company Website,https://huggingface.co,Hugging Face,,2026-09-03T16:43:03.763437+00:00
+1.0,STARTUP,Official Company Website,https://stability.ai,Stability AI,,2026-09-03T16:43:03.763463+00:00
+1.0,STARTUP,Official Company Website,https://www.midjourney.com,Midjourney,,2026-09-03T16:43:03.763490+00:00
+1.0,STARTUP,Official Company Website,https://runwayml.com,Runway,,2026-09-03T16:43:03.763516+00:00
+1.0,STARTUP,Official Company Website,https://elevenlabs.io,ElevenLabs,,2026-09-03T16:43:03.763543+00:00
+1.0,STARTUP,Official Company Website,https://scale.com,Scale AI,,2026-09-03T16:43:03.763569+00:00
+1.0,STARTUP,Official Company Website,https://x.ai,xAI,,2026-09-03T16:43:03.763596+00:00
+1.0,STARTUP,Official Company Website,https://deepmind.google,DeepMind,,2026-09-03T16:43:03.763623+00:00
+1.0,STARTUP,Official Company Website,https://www.together.ai,Together AI,,2026-09-03T16:43:03.763655+00:00
+1.0,STARTUP,Official Company Website,https://www.glean.com,Glean,,2026-09-03T16:43:03.763684+00:00
+1.0,STARTUP,Official Company Website,https://www.adept.ai,Adept,,2026-09-03T16:43:03.763711+00:00
+1.0,STARTUP,Official Company Website,https://character.ai,Character AI,,2026-09-03T16:43:03.763737+00:00
+1.0,STARTUP,Official Company Website,https://pika.art,Pika Labs,,2026-09-03T16:43:03.763764+00:00
+1.0,STARTUP,Official Company Website,https://replit.com,Replit,,2026-09-03T16:43:03.763791+00:00
+1.0,STARTUP,Official Company Website,https://wandb.ai,Weights & Biases,,2026-09-03T16:43:03.763817+00:00
+1.0,STARTUP,Official Company Website,https://openai.com,OpenAI,,2026-09-03T16:43:03.763847+00:00
+1.0,STARTUP,Official Company Website,https://www.anthropic.com,Anthropic,,2026-09-03T16:43:03.763875+00:00
+1.0,STARTUP,Official Company Website,https://www.perplexity.ai,Perplexity,,2026-09-03T16:43:03.763902+00:00
+1.0,STARTUP,Official Company Website,https://cohere.com,Cohere,,2026-09-03T16:43:03.763929+00:00
+1.0,STARTUP,Official Company Website,https://mistral.ai,Mistral AI,,2026-09-03T16:43:03.764347+00:00
+1.0,STARTUP,Official Company Website,https://huggingface.co,Hugging Face,,2026-09-03T16:43:03.764382+00:00
+1.0,STARTUP,Official Company Website,https://stability.ai,Stability AI,,2026-09-03T16:43:03.764416+00:00
+1.0,STARTUP,Official Company Website,https://www.midjourney.com,Midjourney,,2026-09-03T16:43:03.764445+00:00
+1.0,STARTUP,Official Company Website,https://runwayml.com,Runway,,2026-09-03T16:43:03.764473+00:00
+1.0,STARTUP,Official Company Website,https://elevenlabs.io,ElevenLabs,,2026-09-03T16:43:03.764502+00:00
+1.0,STARTUP,Official Company Website,https://scale.com,Scale AI,,2026-09-03T16:43:03.764529+00:00
+1.0,STARTUP,Official Company Website,https://x.ai,xAI,,2026-09-03T16:43:03.764556+00:00
+1.0,STARTUP,Official Company Website,https://deepmind.google,DeepMind,,2026-09-03T16:43:03.764583+00:00
+1.0,STARTUP,Official Company Website,https://www.together.ai,Together AI,,2026-09-03T16:43:03.764614+00:00
+1.0,STARTUP,Official Company Website,https://www.glean.com,Glean,,2026-09-03T16:43:03.764642+00:00
+1.0,STARTUP,Official Company Website,https://www.adept.ai,Adept,,2026-09-03T16:43:03.764669+00:00
+1.0,STARTUP,Official Company Website,https://character.ai,Character AI,,2026-09-03T16:43:03.764696+00:00
+1.0,STARTUP,Official Company Website,https://pika.art,Pika Labs,,2026-09-03T16:43:03.764723+00:00
+1.0,STARTUP,Official Company Website,https://replit.com,Replit,,2026-09-03T16:43:03.764749+00:00
+1.0,STARTUP,Official Company Website,https://wandb.ai,Weights & Biases,,2026-09-03T16:43:03.764775+00:00
+1.0,STARTUP,Official Company Website,https://openai.com,OpenAI,,2026-09-03T16:43:03.764803+00:00
+1.0,STARTUP,Official Company Website,https://www.anthropic.com,Anthropic,,2026-09-03T16:43:03.764831+00:00
+1.0,STARTUP,Official Company Website,https://www.perplexity.ai,Perplexity,,2026-09-03T16:43:03.764862+00:00
+1.0,STARTUP,Official Company Website,https://cohere.com,Cohere,,2026-09-03T16:43:03.764890+00:00
+1.0,STARTUP,Official Company Website,https://mistral.ai,Mistral AI,,2026-09-03T16:43:03.764917+00:00
+1.0,STARTUP,Official Company Website,https://huggingface.co,Hugging Face,,2026-09-03T16:43:03.764944+00:00
+1.0,STARTUP,Official Company Website,https://stability.ai,Stability AI,,2026-09-03T16:43:03.764975+00:00
+1.0,STARTUP,Official Company Website,https://www.midjourney.com,Midjourney,,2026-09-03T16:43:03.765004+00:00
+1.0,STARTUP,Official Company Website,https://runwayml.com,Runway,,2026-09-03T16:43:03.765031+00:00
+1.0,STARTUP,Official Company Website,https://elevenlabs.io,ElevenLabs,,2026-09-03T16:43:03.765061+00:00
+1.0,STARTUP,Official Company Website,https://scale.com,Scale AI,,2026-09-03T16:43:03.765088+00:00
+1.0,STARTUP,Official Company Website,https://x.ai,xAI,,2026-09-03T16:43:03.765115+00:00
+1.0,STARTUP,Official Company Website,https://deepmind.google,DeepMind,,2026-09-03T16:43:03.765146+00:00
+1.0,STARTUP,Official Company Website,https://www.together.ai,Together AI,,2026-09-03T16:43:03.765174+00:00
+1.0,STARTUP,Official Company Website,https://www.glean.com,Glean,,2026-09-03T16:43:03.765201+00:00
+1.0,STARTUP,Official Company Website,https://www.adept.ai,Adept,,2026-09-03T16:43:03.765227+00:00
+1.0,STARTUP,Official Company Website,https://character.ai,Character AI,,2026-09-03T16:43:03.765254+00:00
+1.0,STARTUP,Official Company Website,https://pika.art,Pika Labs,,2026-09-03T16:43:03.765281+00:00
+1.0,STARTUP,Official Company Website,https://replit.com,Replit,,2026-09-03T16:43:03.765307+00:00
+1.0,STARTUP,Official Company Website,https://wandb.ai,Weights & Biases,,2026-09-03T16:43:03.765334+00:00
+1.0,STARTUP,Official Company Website,https://openai.com,OpenAI,,2026-09-03T16:43:03.765364+00:00
+1.0,STARTUP,Official Company Website,https://www.anthropic.com,Anthropic,,2026-09-03T16:43:03.765392+00:00
+1.0,STARTUP,Official Company Website,https://www.perplexity.ai,Perplexity,,2026-09-03T16:43:03.765419+00:00
+1.0,STARTUP,Official Company Website,https://cohere.com,Cohere,,2026-09-03T16:43:03.765445+00:00
+1.0,STARTUP,Official Company Website,https://mistral.ai,Mistral AI,,2026-09-03T16:43:03.765472+00:00
+1.0,STARTUP,Official Company Website,https://huggingface.co,Hugging Face,,2026-09-03T16:43:03.765498+00:00
+1.0,STARTUP,Official Company Website,https://stability.ai,Stability AI,,2026-09-03T16:43:03.765525+00:00
+1.0,STARTUP,Official Company Website,https://www.midjourney.com,Midjourney,,2026-09-03T16:43:03.765551+00:00
+1.0,STARTUP,Official Company Website,https://runwayml.com,Runway,,2026-09-03T16:43:03.765578+00:00
+1.0,STARTUP,Official Company Website,https://elevenlabs.io,ElevenLabs,,2026-09-03T16:43:03.765606+00:00
+1.0,STARTUP,Official Company Website,https://scale.com,Scale AI,,2026-09-03T16:43:03.765634+00:00
+1.0,STARTUP,Official Company Website,https://x.ai,xAI,,2026-09-03T16:43:03.765660+00:00
+1.0,STARTUP,Official Company Website,https://deepmind.google,DeepMind,,2026-09-03T16:43:03.765690+00:00
+1.0,STARTUP,Official Company Website,https://www.together.ai,Together AI,,2026-09-03T16:43:03.765718+00:00
+1.0,STARTUP,Official Company Website,https://www.glean.com,Glean,,2026-09-03T16:43:03.765745+00:00
+1.0,STARTUP,Official Company Website,https://www.adept.ai,Adept,,2026-09-03T16:43:03.765772+00:00
+1.0,STARTUP,Official Company Website,https://character.ai,Character AI,,2026-09-03T16:43:03.765798+00:00
+1.0,STARTUP,Official Company Website,https://pika.art,Pika Labs,,2026-09-03T16:43:03.765825+00:00
+1.0,STARTUP,Official Company Website,https://replit.com,Replit,,2026-09-03T16:43:03.765856+00:00
+1.0,STARTUP,Official Company Website,https://wandb.ai,Weights & Biases,,2026-09-03T16:43:03.765883+00:00
+1.0,STARTUP,Official Company Website,https://openai.com,OpenAI,,2026-09-03T16:43:03.765911+00:00
+1.0,STARTUP,Official Company Website,https://www.anthropic.com,Anthropic,,2026-09-03T16:43:03.765938+00:00
+1.0,STARTUP,Official Company Website,https://www.perplexity.ai,Perplexity,,2026-09-03T16:43:03.765964+00:00
+1.0,STARTUP,Official Company Website,https://cohere.com,Cohere,,2026-09-03T16:43:03.765991+00:00
+1.0,STARTUP,Official Company Website,https://mistral.ai,Mistral AI,,2026-09-03T16:43:03.766017+00:00
+1.0,STARTUP,Official Company Website,https://huggingface.co,Hugging Face,,2026-09-03T16:43:03.766044+00:00
+1.0,STARTUP,Official Company Website,https://stability.ai,Stability AI,,2026-09-03T16:43:03.766070+00:00
+1.0,STARTUP,Official Company Website,https://www.midjourney.com,Midjourney,,2026-09-03T16:43:03.766097+00:00
+1.0,STARTUP,Official Company Website,https://runwayml.com,Runway,,2026-09-03T16:43:03.766123+00:00
+1.0,STARTUP,Official Company Website,https://elevenlabs.io,ElevenLabs,,2026-09-03T16:43:03.766150+00:00
+1.0,STARTUP,Official Company Website,https://scale.com,Scale AI,,2026-09-03T16:43:03.766176+00:00
+1.0,STARTUP,Official Company Website,https://x.ai,xAI,,2026-09-03T16:43:03.766206+00:00
+1.0,STARTUP,Official Company Website,https://deepmind.google,DeepMind,,2026-09-03T16:43:03.766234+00:00
+1.0,STARTUP,Official Company Website,https://www.together.ai,Together AI,,2026-09-03T16:43:03.766263+00:00
+1.0,STARTUP,Official Company Website,https://www.glean.com,Glean,,2026-09-03T16:43:03.766290+00:00
+1.0,STARTUP,Official Company Website,https://www.adept.ai,Adept,,2026-09-03T16:43:03.766317+00:00
+1.0,STARTUP,Official Company Website,https://character.ai,Character AI,,2026-09-03T16:43:03.766343+00:00
+1.0,STARTUP,Official Company Website,https://pika.art,Pika Labs,,2026-09-03T16:43:03.766375+00:00
+1.0,STARTUP,Official Company Website,https://replit.com,Replit,,2026-09-03T16:43:03.766403+00:00
+1.0,STARTUP,Official Company Website,https://wandb.ai,Weights & Biases,,2026-09-03T16:43:03.766430+00:00
+1.0,STARTUP,Official Company Website,https://openai.com,OpenAI,,2026-09-03T16:43:03.766456+00:00
+1.0,STARTUP,Official Company Website,https://www.anthropic.com,Anthropic,,2026-09-03T16:43:03.766483+00:00
+1.0,STARTUP,Official Company Website,https://www.perplexity.ai,Perplexity,,2026-09-03T16:43:03.766509+00:00
+1.0,STARTUP,Official Company Website,https://cohere.com,Cohere,,2026-09-03T16:43:03.766536+00:00
+1.0,STARTUP,Official Company Website,https://mistral.ai,Mistral AI,,2026-09-03T16:43:03.766562+00:00
+1.0,STARTUP,Official Company Website,https://huggingface.co,Hugging Face,,2026-09-03T16:43:03.766589+00:00
+1.0,STARTUP,Official Company Website,https://stability.ai,Stability AI,,2026-09-03T16:43:03.766616+00:00
+1.0,STARTUP,Official Company Website,https://www.midjourney.com,Midjourney,,2026-09-03T16:43:03.766642+00:00
+1.0,STARTUP,Official Company Website,https://runwayml.com,Runway,,2026-09-03T16:43:03.766668+00:00
+1.0,STARTUP,Official Company Website,https://elevenlabs.io,ElevenLabs,,2026-09-03T16:43:03.766694+00:00
+1.0,STARTUP,Official Company Website,https://scale.com,Scale AI,,2026-09-03T16:43:03.766721+00:00
+1.0,STARTUP,Official Company Website,https://x.ai,xAI,,2026-09-03T16:43:03.766759+00:00
+1.0,STARTUP,Official Company Website,https://deepmind.google,DeepMind,,2026-09-03T16:43:03.766788+00:00
+1.0,STARTUP,Official Company Website,https://www.together.ai,Together AI,,2026-09-03T16:43:03.766814+00:00
+1.0,STARTUP,Official Company Website,https://www.glean.com,Glean,,2026-09-03T16:43:03.766844+00:00
+1.0,STARTUP,Official Company Website,https://www.adept.ai,Adept,,2026-09-03T16:43:03.766871+00:00
+1.0,STARTUP,Official Company Website,https://character.ai,Character AI,,2026-09-03T16:43:03.766898+00:00
+1.0,STARTUP,Official Company Website,https://pika.art,Pika Labs,,2026-09-03T16:43:03.766925+00:00
+1.0,STARTUP,Official Company Website,https://replit.com,Replit,,2026-09-03T16:43:03.766951+00:00
+1.0,STARTUP,Official Company Website,https://wandb.ai,Weights & Biases,,2026-09-03T16:43:03.766978+00:00
+1.0,STARTUP,Official Company Website,https://openai.com,OpenAI,,2026-09-03T16:43:03.767004+00:00
+1.0,STARTUP,Official Company Website,https://www.anthropic.com,Anthropic,,2026-09-03T16:43:03.767033+00:00
+1.0,STARTUP,Official Company Website,https://www.perplexity.ai,Perplexity,,2026-09-03T16:43:03.767060+00:00
+1.0,STARTUP,Official Company Website,https://cohere.com,Cohere,,2026-09-03T16:43:03.767087+00:00
+1.0,STARTUP,Official Company Website,https://mistral.ai,Mistral AI,,2026-09-03T16:43:03.767113+00:00
+1.0,STARTUP,Official Company Website,https://huggingface.co,Hugging Face,,2026-09-03T16:43:03.767139+00:00
+1.0,STARTUP,Official Company Website,https://stability.ai,Stability AI,,2026-09-03T16:43:03.767166+00:00
+1.0,STARTUP,Official Company Website,https://www.midjourney.com,Midjourney,,2026-09-03T16:43:03.767192+00:00
+1.0,STARTUP,Official Company Website,https://runwayml.com,Runway,,2026-09-03T16:43:03.767218+00:00
+1.0,STARTUP,Official Company Website,https://elevenlabs.io,ElevenLabs,,2026-09-03T16:43:03.767245+00:00
+1.0,STARTUP,Official Company Website,https://scale.com,Scale AI,,2026-09-03T16:43:03.767272+00:00
+1.0,STARTUP,Official Company Website,https://x.ai,xAI,,2026-09-03T16:43:03.767298+00:00
+1.0,STARTUP,Official Company Website,https://deepmind.google,DeepMind,,2026-09-03T16:43:03.767325+00:00
+1.0,STARTUP,Official Company Website,https://www.together.ai,Together AI,,2026-09-03T16:43:03.767351+00:00
+1.0,STARTUP,Official Company Website,https://www.glean.com,Glean,,2026-09-03T16:43:03.767378+00:00
+1.0,STARTUP,Official Company Website,https://www.adept.ai,Adept,,2026-09-03T16:43:03.767405+00:00
+1.0,STARTUP,Official Company Website,https://character.ai,Character AI,,2026-09-03T16:43:03.767431+00:00
+1.0,STARTUP,Official Company Website,https://pika.art,Pika Labs,,2026-09-03T16:43:03.767458+00:00
+1.0,STARTUP,Official Company Website,https://replit.com,Replit,,2026-09-03T16:43:03.767485+00:00
+1.0,STARTUP,Official Company Website,https://wandb.ai,Weights & Biases,,2026-09-03T16:43:03.767511+00:00
+1.0,STARTUP,Official Company Website,https://openai.com,OpenAI,,2026-09-03T16:43:03.767538+00:00
+1.0,STARTUP,Official Company Website,https://www.anthropic.com,Anthropic,,2026-09-03T16:43:03.767565+00:00
+1.0,STARTUP,Official Company Website,https://www.perplexity.ai,Perplexity,,2026-09-03T16:43:03.767591+00:00
+1.0,STARTUP,Official Company Website,https://cohere.com,Cohere,,2026-09-03T16:43:03.767617+00:00
+1.0,STARTUP,Official Company Website,https://mistral.ai,Mistral AI,,2026-09-03T16:43:03.767644+00:00
+1.0,STARTUP,Official Company Website,https://huggingface.co,Hugging Face,,2026-09-03T16:43:03.767670+00:00
+1.0,STARTUP,Official Company Website,https://stability.ai,Stability AI,,2026-09-03T16:43:03.767696+00:00
+1.0,STARTUP,Official Company Website,https://www.midjourney.com,Midjourney,,2026-09-03T16:43:03.767723+00:00
+1.0,STARTUP,Official Company Website,https://runwayml.com,Runway,,2026-09-03T16:43:03.767749+00:00
+1.0,STARTUP,Official Company Website,https://elevenlabs.io,ElevenLabs,,2026-09-03T16:43:03.767776+00:00
+1.0,STARTUP,Official Company Website,https://scale.com,Scale AI,,2026-09-03T16:43:03.767803+00:00
+1.0,STARTUP,Official Company Website,https://x.ai,xAI,,2026-09-03T16:43:03.767830+00:00
+1.0,STARTUP,Official Company Website,https://deepmind.google,DeepMind,,2026-09-03T16:43:03.767860+00:00
+1.0,STARTUP,Official Company Website,https://www.together.ai,Together AI,,2026-09-03T16:43:03.767889+00:00
+1.0,STARTUP,Official Company Website,https://www.glean.com,Glean,,2026-09-03T16:43:03.767917+00:00
+1.0,STARTUP,Official Company Website,https://www.adept.ai,Adept,,2026-09-03T16:43:03.767943+00:00
+1.0,STARTUP,Official Company Website,https://character.ai,Character AI,,2026-09-03T16:43:03.767970+00:00
+1.0,STARTUP,Official Company Website,https://pika.art,Pika Labs,,2026-09-03T16:43:03.767997+00:00
+1.0,STARTUP,Official Company Website,https://replit.com,Replit,,2026-09-03T16:43:03.768023+00:00
+1.0,STARTUP,Official Company Website,https://wandb.ai,Weights & Biases,,2026-09-03T16:43:03.768050+00:00
+1.0,STARTUP,Official Company Website,https://openai.com,OpenAI,,2026-09-03T16:43:03.768076+00:00
+1.0,STARTUP,Official Company Website,https://www.anthropic.com,Anthropic,,2026-09-03T16:43:03.768103+00:00
+1.0,STARTUP,Official Company Website,https://www.perplexity.ai,Perplexity,,2026-09-03T16:43:03.768129+00:00
+1.0,STARTUP,Official Company Website,https://cohere.com,Cohere,,2026-09-03T16:43:03.768155+00:00
+1.0,STARTUP,Official Company Website,https://mistral.ai,Mistral AI,,2026-09-03T16:43:03.768181+00:00
+1.0,STARTUP,Official Company Website,https://huggingface.co,Hugging Face,,2026-09-03T16:43:03.768208+00:00
+1.0,STARTUP,Official Company Website,https://stability.ai,Stability AI,,2026-09-03T16:43:03.768234+00:00
+1.0,STARTUP,Official Company Website,https://www.midjourney.com,Midjourney,,2026-09-03T16:43:03.768262+00:00
+1.0,STARTUP,Official Company Website,https://runwayml.com,Runway,,2026-09-03T16:43:03.768289+00:00
+1.0,STARTUP,Official Company Website,https://elevenlabs.io,ElevenLabs,,2026-09-03T16:43:03.768316+00:00
+1.0,STARTUP,Official Company Website,https://scale.com,Scale AI,,2026-09-03T16:43:03.768343+00:00
+1.0,STARTUP,Official Company Website,https://x.ai,xAI,,2026-09-03T16:43:03.768370+00:00
+1.0,STARTUP,Official Company Website,https://deepmind.google,DeepMind,,2026-09-03T16:43:03.768396+00:00
+1.0,STARTUP,Official Company Website,https://www.together.ai,Together AI,,2026-09-03T16:43:03.768423+00:00
+1.0,STARTUP,Official Company Website,https://www.glean.com,Glean,,2026-09-03T16:43:03.768449+00:00
+1.0,STARTUP,Official Company Website,https://www.adept.ai,Adept,,2026-09-03T16:43:03.768475+00:00
+1.0,STARTUP,Official Company Website,https://character.ai,Character AI,,2026-09-03T16:43:03.768501+00:00
+1.0,STARTUP,Official Company Website,https://pika.art,Pika Labs,,2026-09-03T16:43:03.768528+00:00
+1.0,STARTUP,Official Company Website,https://replit.com,Replit,,2026-09-03T16:43:03.768555+00:00
+1.0,STARTUP,Official Company Website,https://wandb.ai,Weights & Biases,,2026-09-03T16:43:03.768581+00:00
+1.0,STARTUP,Official Company Website,https://openai.com,OpenAI,,2026-09-03T16:43:03.768608+00:00
+1.0,STARTUP,Official Company Website,https://www.anthropic.com,Anthropic,,2026-09-03T16:43:03.768634+00:00
+1.0,STARTUP,Official Company Website,https://www.perplexity.ai,Perplexity,,2026-09-03T16:43:03.768661+00:00
+1.0,STARTUP,Official Company Website,https://cohere.com,Cohere,,2026-09-03T16:43:03.768687+00:00
+1.0,STARTUP,Official Company Website,https://mistral.ai,Mistral AI,,2026-09-03T16:43:03.768714+00:00
+1.0,STARTUP,Official Company Website,https://huggingface.co,Hugging Face,,2026-09-03T16:43:03.768740+00:00
+1.0,STARTUP,Official Company Website,https://stability.ai,Stability AI,,2026-09-03T16:43:03.768766+00:00
+1.0,STARTUP,Official Company Website,https://www.midjourney.com,Midjourney,,2026-09-03T16:43:03.768793+00:00
+1.0,STARTUP,Official Company Website,https://runwayml.com,Runway,,2026-09-03T16:43:03.768819+00:00
+1.0,STARTUP,Official Company Website,https://elevenlabs.io,ElevenLabs,,2026-09-03T16:43:03.768851+00:00
+1.0,STARTUP,Official Company Website,https://scale.com,Scale AI,,2026-09-03T16:43:03.768879+00:00
+1.0,STARTUP,Official Company Website,https://x.ai,xAI,,2026-09-03T16:43:03.768906+00:00
+1.0,STARTUP,Official Company Website,https://deepmind.google,DeepMind,,2026-09-03T16:43:03.768932+00:00
+1.0,STARTUP,Official Company Website,https://www.together.ai,Together AI,,2026-09-03T16:43:03.768959+00:00
+1.0,STARTUP,Official Company Website,https://www.glean.com,Glean,,2026-09-03T16:43:03.768986+00:00
+1.0,STARTUP,Official Company Website,https://www.adept.ai,Adept,,2026-09-03T16:43:03.769013+00:00
+1.0,STARTUP,Official Company Website,https://character.ai,Character AI,,2026-09-03T16:43:03.769040+00:00
+1.0,STARTUP,Official Company Website,https://pika.art,Pika Labs,,2026-09-03T16:43:03.769066+00:00
+1.0,STARTUP,Official Company Website,https://replit.com,Replit,,2026-09-03T16:43:03.769093+00:00
+1.0,STARTUP,Official Company Website,https://wandb.ai,Weights & Biases,,2026-09-03T16:43:03.769120+00:00
+1.0,STARTUP,Official Company Website,https://openai.com,OpenAI,,2026-09-03T16:43:03.769146+00:00
+1.0,STARTUP,Official Company Website,https://www.anthropic.com,Anthropic,,2026-09-03T16:43:03.769173+00:00
+1.0,STARTUP,Official Company Website,https://www.perplexity.ai,Perplexity,,2026-09-03T16:43:03.769199+00:00
+1.0,STARTUP,Official Company Website,https://cohere.com,Cohere,,2026-09-03T16:43:03.769226+00:00
+1.0,STARTUP,Official Company Website,https://mistral.ai,Mistral AI,,2026-09-03T16:43:03.769252+00:00
+1.0,STARTUP,Official Company Website,https://huggingface.co,Hugging Face,,2026-09-03T16:43:03.769278+00:00
+1.0,STARTUP,Official Company Website,https://stability.ai,Stability AI,,2026-09-03T16:43:03.769305+00:00
+1.0,STARTUP,Official Company Website,https://www.midjourney.com,Midjourney,,2026-09-03T16:43:03.769331+00:00
+1.0,STARTUP,Official Company Website,https://runwayml.com,Runway,,2026-09-03T16:43:03.769358+00:00
+1.0,STARTUP,Official Company Website,https://elevenlabs.io,ElevenLabs,,2026-09-03T16:43:03.769384+00:00
+1.0,STARTUP,Official Company Website,https://scale.com,Scale AI,,2026-09-03T16:43:03.769411+00:00
+1.0,STARTUP,Official Company Website,https://x.ai,xAI,,2026-09-03T16:43:03.769437+00:00
+1.0,STARTUP,Official Company Website,https://deepmind.google,DeepMind,,2026-09-03T16:43:03.769464+00:00
+1.0,STARTUP,Official Company Website,https://www.together.ai,Together AI,,2026-09-03T16:43:03.769491+00:00
+1.0,STARTUP,Official Company Website,https://www.glean.com,Glean,,2026-09-03T16:43:03.769517+00:00
+1.0,STARTUP,Official Company Website,https://www.adept.ai,Adept,,2026-09-03T16:43:03.769544+00:00
+1.0,STARTUP,Official Company Website,https://character.ai,Character AI,,2026-09-03T16:43:03.769570+00:00
+1.0,STARTUP,Official Company Website,https://pika.art,Pika Labs,,2026-09-03T16:43:03.769597+00:00
+1.0,STARTUP,Official Company Website,https://replit.com,Replit,,2026-09-03T16:43:03.769623+00:00
+1.0,STARTUP,Official Company Website,https://wandb.ai,Weights & Biases,,2026-09-03T16:43:03.769649+00:00
+1.0,STARTUP,Official Company Website,https://openai.com,OpenAI,,2026-09-03T16:43:03.769676+00:00
+1.0,STARTUP,Official Company Website,https://www.anthropic.com,Anthropic,,2026-09-03T16:43:03.769702+00:00
+1.0,STARTUP,Official Company Website,https://www.perplexity.ai,Perplexity,,2026-09-03T16:43:03.769728+00:00
+1.0,STARTUP,Official Company Website,https://cohere.com,Cohere,,2026-09-03T16:43:03.769755+00:00
+1.0,STARTUP,Official Company Website,https://mistral.ai,Mistral AI,,2026-09-03T16:43:03.769781+00:00
+1.0,STARTUP,Official Company Website,https://huggingface.co,Hugging Face,,2026-09-03T16:43:03.769808+00:00
+1.0,STARTUP,Official Company Website,https://stability.ai,Stability AI,,2026-09-03T16:43:03.769837+00:00
+1.0,STARTUP,Official Company Website,https://www.midjourney.com,Midjourney,,2026-09-03T16:43:03.769864+00:00
+1.0,STARTUP,Official Company Website,https://runwayml.com,Runway,,2026-09-03T16:43:03.769891+00:00
+1.0,STARTUP,Official Company Website,https://elevenlabs.io,ElevenLabs,,2026-09-03T16:43:03.769919+00:00
+1.0,STARTUP,Official Company Website,https://scale.com,Scale AI,,2026-09-03T16:43:03.769946+00:00
+1.0,STARTUP,Official Company Website,https://x.ai,xAI,,2026-09-03T16:43:03.769973+00:00
+1.0,STARTUP,Official Company Website,https://deepmind.google,DeepMind,,2026-09-03T16:43:03.770000+00:00
+1.0,STARTUP,Official Company Website,https://www.together.ai,Together AI,,2026-09-03T16:43:03.770026+00:00
+1.0,STARTUP,Official Company Website,https://www.glean.com,Glean,,2026-09-03T16:43:03.770052+00:00
+1.0,STARTUP,Official Company Website,https://www.adept.ai,Adept,,2026-09-03T16:43:03.770078+00:00
+1.0,STARTUP,Official Company Website,https://character.ai,Character AI,,2026-09-03T16:43:03.770105+00:00
+1.0,STARTUP,Official Company Website,https://pika.art,Pika Labs,,2026-09-03T16:43:03.770131+00:00
+1.0,STARTUP,Official Company Website,https://replit.com,Replit,,2026-09-03T16:43:03.770158+00:00
+1.0,STARTUP,Official Company Website,https://wandb.ai,Weights & Biases,,2026-09-03T16:43:03.770184+00:00
+1.0,STARTUP,Official Company Website,https://openai.com,OpenAI,,2026-09-03T16:43:03.770210+00:00
+1.0,STARTUP,Official Company Website,https://www.anthropic.com,Anthropic,,2026-09-03T16:43:03.770237+00:00
+1.0,STARTUP,Official Company Website,https://www.perplexity.ai,Perplexity,,2026-09-03T16:43:03.770263+00:00
+1.0,STARTUP,Official Company Website,https://cohere.com,Cohere,,2026-09-03T16:43:03.770290+00:00
+1.0,STARTUP,Official Company Website,https://mistral.ai,Mistral AI,,2026-09-03T16:43:03.770316+00:00
+1.0,STARTUP,Official Company Website,https://huggingface.co,Hugging Face,,2026-09-03T16:43:03.770343+00:00
+1.0,STARTUP,Official Company Website,https://stability.ai,Stability AI,,2026-09-03T16:43:03.770369+00:00
+1.0,STARTUP,Official Company Website,https://www.midjourney.com,Midjourney,,2026-09-03T16:43:03.770395+00:00
+1.0,STARTUP,Official Company Website,https://runwayml.com,Runway,,2026-09-03T16:43:03.770422+00:00
+1.0,STARTUP,Official Company Website,https://elevenlabs.io,ElevenLabs,,2026-09-03T16:43:03.770448+00:00
+1.0,STARTUP,Official Company Website,https://scale.com,Scale AI,,2026-09-03T16:43:03.770475+00:00
+1.0,STARTUP,Official Company Website,https://x.ai,xAI,,2026-09-03T16:43:03.770501+00:00
+1.0,STARTUP,Official Company Website,https://deepmind.google,DeepMind,,2026-09-03T16:43:03.770528+00:00
+1.0,STARTUP,Official Company Website,https://www.together.ai,Together AI,,2026-09-03T16:43:03.770555+00:00
+1.0,STARTUP,Official Company Website,https://www.glean.com,Glean,,2026-09-03T16:43:03.770581+00:00
+1.0,STARTUP,Official Company Website,https://www.adept.ai,Adept,,2026-09-03T16:43:03.770608+00:00
+1.0,STARTUP,Official Company Website,https://character.ai,Character AI,,2026-09-03T16:43:03.770635+00:00
+1.0,STARTUP,Official Company Website,https://pika.art,Pika Labs,,2026-09-03T16:43:03.770661+00:00
+1.0,STARTUP,Official Company Website,https://replit.com,Replit,,2026-09-03T16:43:03.770688+00:00
+1.0,STARTUP,Official Company Website,https://wandb.ai,Weights & Biases,,2026-09-03T16:43:03.770714+00:00
+1.0,STARTUP,Official Company Website,https://openai.com,OpenAI,,2026-09-03T16:43:03.770741+00:00
+1.0,STARTUP,Official Company Website,https://www.anthropic.com,Anthropic,,2026-09-03T16:43:03.770767+00:00
+1.0,STARTUP,Official Company Website,https://www.perplexity.ai,Perplexity,,2026-09-03T16:43:03.770794+00:00
+1.0,STARTUP,Official Company Website,https://cohere.com,Cohere,,2026-09-03T16:43:03.770821+00:00
+1.0,STARTUP,Official Company Website,https://mistral.ai,Mistral AI,,2026-09-03T16:43:03.770850+00:00
+1.0,STARTUP,Official Company Website,https://huggingface.co,Hugging Face,,2026-09-03T16:43:03.770878+00:00
+1.0,STARTUP,Official Company Website,https://stability.ai,Stability AI,,2026-09-03T16:43:03.770905+00:00
+1.0,STARTUP,Official Company Website,https://www.midjourney.com,Midjourney,,2026-09-03T16:43:03.770942+00:00
+1.0,STARTUP,Official Company Website,https://runwayml.com,Runway,,2026-09-03T16:43:03.770971+00:00
+1.0,STARTUP,Official Company Website,https://elevenlabs.io,ElevenLabs,,2026-09-03T16:43:03.770998+00:00
+1.0,STARTUP,Official Company Website,https://scale.com,Scale AI,,2026-09-03T16:43:03.771025+00:00
+1.0,STARTUP,Official Company Website,https://x.ai,xAI,,2026-09-03T16:43:03.771052+00:00
+1.0,STARTUP,Official Company Website,https://deepmind.google,DeepMind,,2026-09-03T16:43:03.771079+00:00
+1.0,STARTUP,Official Company Website,https://www.together.ai,Together AI,,2026-09-03T16:43:03.771108+00:00
+1.0,STARTUP,Official Company Website,https://www.glean.com,Glean,,2026-09-03T16:43:03.771135+00:00
+1.0,STARTUP,Official Company Website,https://www.adept.ai,Adept,,2026-09-03T16:43:03.771162+00:00
+1.0,STARTUP,Official Company Website,https://character.ai,Character AI,,2026-09-03T16:43:03.771189+00:00
+1.0,STARTUP,Official Company Website,https://pika.art,Pika Labs,,2026-09-03T16:43:03.771215+00:00
+1.0,STARTUP,Official Company Website,https://replit.com,Replit,,2026-09-03T16:43:03.771242+00:00
+1.0,STARTUP,Official Company Website,https://wandb.ai,Weights & Biases,,2026-09-03T16:43:03.771269+00:00
+1.0,STARTUP,Official Company Website,https://openai.com,OpenAI,,2026-09-03T16:43:03.771295+00:00
+1.0,STARTUP,Official Company Website,https://www.anthropic.com,Anthropic,,2026-09-03T16:43:03.771321+00:00
+1.0,STARTUP,Official Company Website,https://www.perplexity.ai,Perplexity,,2026-09-03T16:43:03.771348+00:00
+1.0,STARTUP,Official Company Website,https://cohere.com,Cohere,,2026-09-03T16:43:03.771375+00:00
+1.0,STARTUP,Official Company Website,https://mistral.ai,Mistral AI,,2026-09-03T16:43:03.771401+00:00
+1.0,STARTUP,Official Company Website,https://huggingface.co,Hugging Face,,2026-09-03T16:43:03.771428+00:00
+1.0,STARTUP,Official Company Website,https://stability.ai,Stability AI,,2026-09-03T16:43:03.771455+00:00
+1.0,STARTUP,Official Company Website,https://www.midjourney.com,Midjourney,,2026-09-03T16:43:03.771481+00:00
+1.0,STARTUP,Official Company Website,https://runwayml.com,Runway,,2026-09-03T16:43:03.771508+00:00
+1.0,STARTUP,Official Company Website,https://elevenlabs.io,ElevenLabs,,2026-09-03T16:43:03.771535+00:00
+1.0,STARTUP,Official Company Website,https://scale.com,Scale AI,,2026-09-03T16:43:03.771562+00:00
+1.0,STARTUP,Official Company Website,https://x.ai,xAI,,2026-09-03T16:43:03.771588+00:00
+1.0,STARTUP,Official Company Website,https://deepmind.google,DeepMind,,2026-09-03T16:43:03.771615+00:00
+1.0,STARTUP,Official Company Website,https://www.together.ai,Together AI,,2026-09-03T16:43:03.771642+00:00
+1.0,STARTUP,Official Company Website,https://www.glean.com,Glean,,2026-09-03T16:43:03.771668+00:00
+1.0,STARTUP,Official Company Website,https://www.adept.ai,Adept,,2026-09-03T16:43:03.771695+00:00
+1.0,STARTUP,Official Company Website,https://character.ai,Character AI,,2026-09-03T16:43:03.771721+00:00
+1.0,STARTUP,Official Company Website,https://pika.art,Pika Labs,,2026-09-03T16:43:03.771748+00:00
+1.0,STARTUP,Official Company Website,https://replit.com,Replit,,2026-09-03T16:43:03.771774+00:00
+1.0,STARTUP,Official Company Website,https://wandb.ai,Weights & Biases,,2026-09-03T16:43:03.771801+00:00
+1.0,STARTUP,Official Company Website,https://openai.com,OpenAI,,2026-09-03T16:43:03.771827+00:00
+1.0,STARTUP,Official Company Website,https://www.anthropic.com,Anthropic,,2026-09-03T16:43:03.771858+00:00
+1.0,STARTUP,Official Company Website,https://www.perplexity.ai,Perplexity,,2026-09-03T16:43:03.771884+00:00
+1.0,STARTUP,Official Company Website,https://cohere.com,Cohere,,2026-09-03T16:43:03.771911+00:00
+1.0,STARTUP,Official Company Website,https://mistral.ai,Mistral AI,,2026-09-03T16:43:03.771938+00:00
+1.0,STARTUP,Official Company Website,https://huggingface.co,Hugging Face,,2026-09-03T16:43:03.771964+00:00
+1.0,STARTUP,Official Company Website,https://stability.ai,Stability AI,,2026-09-03T16:43:03.771991+00:00
+1.0,STARTUP,Official Company Website,https://www.midjourney.com,Midjourney,,2026-09-03T16:43:03.772018+00:00
+1.0,STARTUP,Official Company Website,https://runwayml.com,Runway,,2026-09-03T16:43:03.772044+00:00
+1.0,STARTUP,Official Company Website,https://elevenlabs.io,ElevenLabs,,2026-09-03T16:43:03.772070+00:00
+1.0,STARTUP,Official Company Website,https://scale.com,Scale AI,,2026-09-03T16:43:03.772097+00:00
+1.0,STARTUP,Official Company Website,https://x.ai,xAI,,2026-09-03T16:43:03.772124+00:00
+1.0,STARTUP,Official Company Website,https://deepmind.google,DeepMind,,2026-09-03T16:43:03.772150+00:00
+1.0,STARTUP,Official Company Website,https://www.together.ai,Together AI,,2026-09-03T16:43:03.772177+00:00
+1.0,STARTUP,Official Company Website,https://www.glean.com,Glean,,2026-09-03T16:43:03.772203+00:00
+1.0,STARTUP,Official Company Website,https://www.adept.ai,Adept,,2026-09-03T16:43:03.772230+00:00
+1.0,STARTUP,Official Company Website,https://character.ai,Character AI,,2026-09-03T16:43:03.772256+00:00
+1.0,STARTUP,Official Company Website,https://pika.art,Pika Labs,,2026-09-03T16:43:03.772283+00:00
+1.0,STARTUP,Official Company Website,https://replit.com,Replit,,2026-09-03T16:43:03.772309+00:00
+1.0,STARTUP,Official Company Website,https://wandb.ai,Weights & Biases,,2026-09-03T16:43:03.772336+00:00
+1.0,STARTUP,Official Company Website,https://openai.com,OpenAI,,2026-09-03T16:43:03.772362+00:00
+1.0,STARTUP,Official Company Website,https://www.anthropic.com,Anthropic,,2026-09-03T16:43:03.772391+00:00
+1.0,STARTUP,Official Company Website,https://www.perplexity.ai,Perplexity,,2026-09-03T16:43:03.772418+00:00
+1.0,STARTUP,Official Company Website,https://cohere.com,Cohere,,2026-09-03T16:43:03.772445+00:00
+1.0,STARTUP,Official Company Website,https://mistral.ai,Mistral AI,,2026-09-03T16:43:03.772471+00:00
+1.0,STARTUP,Official Company Website,https://huggingface.co,Hugging Face,,2026-09-03T16:43:03.772498+00:00
+1.0,STARTUP,Official Company Website,https://stability.ai,Stability AI,,2026-09-03T16:43:03.772524+00:00
+1.0,STARTUP,Official Company Website,https://www.midjourney.com,Midjourney,,2026-09-03T16:43:03.772551+00:00
+1.0,STARTUP,Official Company Website,https://runwayml.com,Runway,,2026-09-03T16:43:03.772577+00:00
+1.0,STARTUP,Official Company Website,https://elevenlabs.io,ElevenLabs,,2026-09-03T16:43:03.772604+00:00
+1.0,STARTUP,Official Company Website,https://scale.com,Scale AI,,2026-09-03T16:43:03.772630+00:00
+1.0,STARTUP,Official Company Website,https://x.ai,xAI,,2026-09-03T16:43:03.772657+00:00
+1.0,STARTUP,Official Company Website,https://deepmind.google,DeepMind,,2026-09-03T16:43:03.772683+00:00
+1.0,STARTUP,Official Company Website,https://www.together.ai,Together AI,,2026-09-03T16:43:03.772710+00:00
+1.0,STARTUP,Official Company Website,https://www.glean.com,Glean,,2026-09-03T16:43:03.772737+00:00
+1.0,STARTUP,Official Company Website,https://www.adept.ai,Adept,,2026-09-03T16:43:03.772763+00:00
+1.0,STARTUP,Official Company Website,https://character.ai,Character AI,,2026-09-03T16:43:03.772790+00:00
+1.0,STARTUP,Official Company Website,https://pika.art,Pika Labs,,2026-09-03T16:43:03.772816+00:00
+1.0,STARTUP,Official Company Website,https://replit.com,Replit,,2026-09-03T16:43:03.772866+00:00
+1.0,STARTUP,Official Company Website,https://wandb.ai,Weights & Biases,,2026-09-03T16:43:03.772906+00:00
+1.0,STARTUP,Official Company Website,https://openai.com,OpenAI,,2026-09-03T16:43:03.772935+00:00
+1.0,STARTUP,Official Company Website,https://www.anthropic.com,Anthropic,,2026-09-03T16:43:03.772962+00:00
+1.0,STARTUP,Official Company Website,https://www.perplexity.ai,Perplexity,,2026-09-03T16:43:03.772989+00:00
+1.0,STARTUP,Official Company Website,https://cohere.com,Cohere,,2026-09-03T16:43:03.773016+00:00
+1.0,STARTUP,Official Company Website,https://mistral.ai,Mistral AI,,2026-09-03T16:43:03.773043+00:00
+1.0,STARTUP,Official Company Website,https://huggingface.co,Hugging Face,,2026-09-03T16:43:03.773081+00:00
+1.0,STARTUP,Official Company Website,https://stability.ai,Stability AI,,2026-09-03T16:43:03.773205+00:00
+1.0,STARTUP,Official Company Website,https://www.midjourney.com,Midjourney,,2026-09-03T16:43:03.773276+00:00
+1.0,STARTUP,Official Company Website,https://runwayml.com,Runway,,2026-09-03T16:43:03.773313+00:00
+1.0,STARTUP,Official Company Website,https://elevenlabs.io,ElevenLabs,,2026-09-03T16:43:03.773344+00:00
+1.0,STARTUP,Official Company Website,https://scale.com,Scale AI,,2026-09-03T16:43:03.773373+00:00
+1.0,STARTUP,Official Company Website,https://x.ai,xAI,,2026-09-03T16:43:03.773402+00:00
+1.0,STARTUP,Official Company Website,https://deepmind.google,DeepMind,,2026-09-03T16:43:03.773430+00:00
+1.0,STARTUP,Official Company Website,https://www.together.ai,Together AI,,2026-09-03T16:43:03.773458+00:00
+1.0,STARTUP,Official Company Website,https://www.glean.com,Glean,,2026-09-03T16:43:03.773486+00:00
+1.0,STARTUP,Official Company Website,https://www.adept.ai,Adept,,2026-09-03T16:43:03.773645+00:00
+1.0,STARTUP,Official Company Website,https://character.ai,Character AI,,2026-09-03T16:43:03.773721+00:00
+1.0,STARTUP,Official Company Website,https://pika.art,Pika Labs,,2026-09-03T16:43:03.773764+00:00
+1.0,STARTUP,Official Company Website,https://replit.com,Replit,,2026-09-03T16:43:03.773795+00:00
+1.0,STARTUP,Official Company Website,https://wandb.ai,Weights & Biases,,2026-09-03T16:43:03.773823+00:00
+1.0,STARTUP,Official Company Website,https://openai.com,OpenAI,,2026-09-03T16:43:03.773860+00:00
+1.0,STARTUP,Official Company Website,https://www.anthropic.com,Anthropic,,2026-09-03T16:43:03.773892+00:00
+1.0,STARTUP,Official Company Website,https://www.perplexity.ai,Perplexity,,2026-09-03T16:43:03.773970+00:00
+1.0,STARTUP,Official Company Website,https://cohere.com,Cohere,,2026-09-03T16:43:03.774034+00:00
+1.0,STARTUP,Official Company Website,https://mistral.ai,Mistral AI,,2026-09-03T16:43:03.774096+00:00
+1.0,STARTUP,Official Company Website,https://huggingface.co,Hugging Face,,2026-09-03T16:43:03.774169+00:00
+1.0,STARTUP,Official Company Website,https://stability.ai,Stability AI,,2026-09-03T16:43:03.774230+00:00
+1.0,STARTUP,Official Company Website,https://www.midjourney.com,Midjourney,,2026-09-03T16:43:03.774264+00:00
+1.0,STARTUP,Official Company Website,https://runwayml.com,Runway,,2026-09-03T16:43:03.774293+00:00
+1.0,STARTUP,Official Company Website,https://elevenlabs.io,ElevenLabs,,2026-09-03T16:43:03.774321+00:00
+1.0,STARTUP,Official Company Website,https://scale.com,Scale AI,,2026-09-03T16:43:03.774349+00:00
+1.0,STARTUP,Official Company Website,https://x.ai,xAI,,2026-09-03T16:43:03.774376+00:00
+1.0,STARTUP,Official Company Website,https://deepmind.google,DeepMind,,2026-09-03T16:43:03.774405+00:00
+1.0,STARTUP,Official Company Website,https://www.together.ai,Together AI,,2026-09-03T16:43:03.774432+00:00
+1.0,STARTUP,Official Company Website,https://www.glean.com,Glean,,2026-09-03T16:43:03.774460+00:00
+1.0,STARTUP,Official Company Website,https://www.adept.ai,Adept,,2026-09-03T16:43:03.774488+00:00
+1.0,STARTUP,Official Company Website,https://character.ai,Character AI,,2026-09-03T16:43:03.774516+00:00
+1.0,STARTUP,Official Company Website,https://pika.art,Pika Labs,,2026-09-03T16:43:03.774549+00:00
+1.0,STARTUP,Official Company Website,https://replit.com,Replit,,2026-09-03T16:43:03.774577+00:00
+1.0,STARTUP,Official Company Website,https://wandb.ai,Weights & Biases,,2026-09-03T16:43:03.774605+00:00
+1.0,STARTUP,Official Company Website,https://openai.com,OpenAI,,2026-09-03T16:43:03.774632+00:00
+1.0,STARTUP,Official Company Website,https://www.anthropic.com,Anthropic,,2026-09-03T16:43:03.774660+00:00
+1.0,STARTUP,Official Company Website,https://www.perplexity.ai,Perplexity,,2026-09-03T16:43:03.774687+00:00
+1.0,STARTUP,Official Company Website,https://cohere.com,Cohere,,2026-09-03T16:43:03.774714+00:00
+1.0,STARTUP,Official Company Website,https://mistral.ai,Mistral AI,,2026-09-03T16:43:03.774742+00:00
+1.0,STARTUP,Official Company Website,https://huggingface.co,Hugging Face,,2026-09-03T16:43:03.774769+00:00
+1.0,STARTUP,Official Company Website,https://stability.ai,Stability AI,,2026-09-03T16:43:03.774796+00:00
+1.0,STARTUP,Official Company Website,https://www.midjourney.com,Midjourney,,2026-09-03T16:43:03.774824+00:00
+1.0,STARTUP,Official Company Website,https://runwayml.com,Runway,,2026-09-03T16:43:03.774862+00:00
+1.0,STARTUP,Official Company Website,https://elevenlabs.io,ElevenLabs,,2026-09-03T16:43:03.774889+00:00
+1.0,STARTUP,Official Company Website,https://scale.com,Scale AI,,2026-09-03T16:43:03.774917+00:00
+1.0,STARTUP,Official Company Website,https://x.ai,xAI,,2026-09-03T16:43:03.774944+00:00
+1.0,STARTUP,Official Company Website,https://deepmind.google,DeepMind,,2026-09-03T16:43:03.774971+00:00
+1.0,STARTUP,Official Company Website,https://www.together.ai,Together AI,,2026-09-03T16:43:03.774999+00:00
+1.0,STARTUP,Official Company Website,https://www.glean.com,Glean,,2026-09-03T16:43:03.775026+00:00
+1.0,STARTUP,Official Company Website,https://www.adept.ai,Adept,,2026-09-03T16:43:03.775056+00:00
+1.0,STARTUP,Official Company Website,https://character.ai,Character AI,,2026-09-03T16:43:03.775083+00:00
+1.0,STARTUP,Official Company Website,https://pika.art,Pika Labs,,2026-09-03T16:43:03.775110+00:00
+1.0,STARTUP,Official Company Website,https://replit.com,Replit,,2026-09-03T16:43:03.775138+00:00
+1.0,STARTUP,Official Company Website,https://wandb.ai,Weights & Biases,,2026-09-03T16:43:03.775165+00:00
+1.0,STARTUP,Official Company Website,https://openai.com,OpenAI,,2026-09-03T16:43:03.775192+00:00
+1.0,STARTUP,Official Company Website,https://www.anthropic.com,Anthropic,,2026-09-03T16:43:03.775219+00:00
+1.0,STARTUP,Official Company Website,https://www.perplexity.ai,Perplexity,,2026-09-03T16:43:03.775246+00:00
+1.0,STARTUP,Official Company Website,https://cohere.com,Cohere,,2026-09-03T16:43:03.775274+00:00
+1.0,STARTUP,Official Company Website,https://mistral.ai,Mistral AI,,2026-09-03T16:43:03.775301+00:00
+1.0,STARTUP,Official Company Website,https://huggingface.co,Hugging Face,,2026-09-03T16:43:03.775328+00:00
+1.0,STARTUP,Official Company Website,https://stability.ai,Stability AI,,2026-09-03T16:43:03.775356+00:00
+1.0,STARTUP,Official Company Website,https://www.midjourney.com,Midjourney,,2026-09-03T16:43:03.775383+00:00
+1.0,STARTUP,Official Company Website,https://runwayml.com,Runway,,2026-09-03T16:43:03.775410+00:00
+1.0,STARTUP,Official Company Website,https://elevenlabs.io,ElevenLabs,,2026-09-03T16:43:03.775437+00:00
+1.0,STARTUP,Official Company Website,https://scale.com,Scale AI,,2026-09-03T16:43:03.775464+00:00
+1.0,STARTUP,Official Company Website,https://x.ai,xAI,,2026-09-03T16:43:03.775491+00:00
+1.0,STARTUP,Official Company Website,https://deepmind.google,DeepMind,,2026-09-03T16:43:03.775519+00:00
+1.0,STARTUP,Official Company Website,https://www.together.ai,Together AI,,2026-09-03T16:43:03.775546+00:00
+1.0,STARTUP,Official Company Website,https://www.glean.com,Glean,,2026-09-03T16:43:03.775573+00:00
+1.0,STARTUP,Official Company Website,https://www.adept.ai,Adept,,2026-09-03T16:43:03.775600+00:00
+1.0,STARTUP,Official Company Website,https://character.ai,Character AI,,2026-09-03T16:43:03.775627+00:00
+1.0,STARTUP,Official Company Website,https://pika.art,Pika Labs,,2026-09-03T16:43:03.775654+00:00
+1.0,STARTUP,Official Company Website,https://replit.com,Replit,,2026-09-03T16:43:03.775699+00:00
+1.0,STARTUP,Official Company Website,https://wandb.ai,Weights & Biases,,2026-09-03T16:43:03.775728+00:00
+1.0,STARTUP,Official Company Website,https://openai.com,OpenAI,,2026-09-03T16:43:03.775756+00:00
+1.0,STARTUP,Official Company Website,https://www.anthropic.com,Anthropic,,2026-09-03T16:43:03.775782+00:00
+1.0,STARTUP,Official Company Website,https://www.perplexity.ai,Perplexity,,2026-09-03T16:43:03.775812+00:00
+1.0,STARTUP,Official Company Website,https://cohere.com,Cohere,,2026-09-03T16:43:03.775844+00:00
+1.0,STARTUP,Official Company Website,https://mistral.ai,Mistral AI,,2026-09-03T16:43:03.775872+00:00
+1.0,STARTUP,Official Company Website,https://huggingface.co,Hugging Face,,2026-09-03T16:43:03.775899+00:00
+1.0,STARTUP,Official Company Website,https://stability.ai,Stability AI,,2026-09-03T16:43:03.775927+00:00
+1.0,STARTUP,Official Company Website,https://www.midjourney.com,Midjourney,,2026-09-03T16:43:03.775954+00:00
+1.0,STARTUP,Official Company Website,https://runwayml.com,Runway,,2026-09-03T16:43:03.775981+00:00
+1.0,STARTUP,Official Company Website,https://elevenlabs.io,ElevenLabs,,2026-09-03T16:43:03.776008+00:00
+1.0,STARTUP,Official Company Website,https://scale.com,Scale AI,,2026-09-03T16:43:03.776036+00:00
+1.0,STARTUP,Official Company Website,https://x.ai,xAI,,2026-09-03T16:43:03.776063+00:00
+1.0,STARTUP,Official Company Website,https://deepmind.google,DeepMind,,2026-09-03T16:43:03.776090+00:00
+1.0,STARTUP,Official Company Website,https://www.together.ai,Together AI,,2026-09-03T16:43:03.776117+00:00
+1.0,STARTUP,Official Company Website,https://www.glean.com,Glean,,2026-09-03T16:43:03.776144+00:00
+1.0,STARTUP,Official Company Website,https://www.adept.ai,Adept,,2026-09-03T16:43:03.776171+00:00
+1.0,STARTUP,Official Company Website,https://character.ai,Character AI,,2026-09-03T16:43:03.776198+00:00
+1.0,STARTUP,Official Company Website,https://pika.art,Pika Labs,,2026-09-03T16:43:03.776225+00:00
+1.0,STARTUP,Official Company Website,https://replit.com,Replit,,2026-09-03T16:43:03.776252+00:00
+1.0,STARTUP,Official Company Website,https://wandb.ai,Weights & Biases,,2026-09-03T16:43:03.776279+00:00
+1.0,STARTUP,Official Company Website,https://openai.com,OpenAI,,2026-09-03T16:43:03.776307+00:00
+1.0,STARTUP,Official Company Website,https://www.anthropic.com,Anthropic,,2026-09-03T16:43:03.776338+00:00
+1.0,STARTUP,Official Company Website,https://www.perplexity.ai,Perplexity,,2026-09-03T16:43:03.776365+00:00
+1.0,STARTUP,Official Company Website,https://cohere.com,Cohere,,2026-09-03T16:43:03.776392+00:00
+1.0,STARTUP,Official Company Website,https://mistral.ai,Mistral AI,,2026-09-03T16:43:03.776420+00:00
+1.0,STARTUP,Official Company Website,https://huggingface.co,Hugging Face,,2026-09-03T16:43:03.776447+00:00
+1.0,STARTUP,Official Company Website,https://stability.ai,Stability AI,,2026-09-03T16:43:03.776474+00:00
+1.0,STARTUP,Official Company Website,https://www.midjourney.com,Midjourney,,2026-09-03T16:43:03.776502+00:00
+1.0,STARTUP,Official Company Website,https://runwayml.com,Runway,,2026-09-03T16:43:03.776529+00:00
+1.0,STARTUP,Official Company Website,https://elevenlabs.io,ElevenLabs,,2026-09-03T16:43:03.776556+00:00
+1.0,STARTUP,Official Company Website,https://scale.com,Scale AI,,2026-09-03T16:43:03.776584+00:00
+1.0,STARTUP,Official Company Website,https://x.ai,xAI,,2026-09-03T16:43:03.776611+00:00
+1.0,STARTUP,Official Company Website,https://deepmind.google,DeepMind,,2026-09-03T16:43:03.776638+00:00
+1.0,STARTUP,Official Company Website,https://www.together.ai,Together AI,,2026-09-03T16:43:03.776666+00:00
+1.0,STARTUP,Official Company Website,https://www.glean.com,Glean,,2026-09-03T16:43:03.776693+00:00
+1.0,STARTUP,Official Company Website,https://www.adept.ai,Adept,,2026-09-03T16:43:03.776720+00:00
+1.0,STARTUP,Official Company Website,https://character.ai,Character AI,,2026-09-03T16:43:03.776747+00:00
+1.0,STARTUP,Official Company Website,https://pika.art,Pika Labs,,2026-09-03T16:43:03.776774+00:00
+1.0,STARTUP,Official Company Website,https://replit.com,Replit,,2026-09-03T16:43:03.776801+00:00
+1.0,STARTUP,Official Company Website,https://wandb.ai,Weights & Biases,,2026-09-03T16:43:03.776840+00:00
+1.0,STARTUP,Official Company Website,https://openai.com,OpenAI,,2026-09-03T16:43:03.776870+00:00
+1.0,STARTUP,Official Company Website,https://www.anthropic.com,Anthropic,,2026-09-03T16:43:03.776897+00:00
+1.0,STARTUP,Official Company Website,https://www.perplexity.ai,Perplexity,,2026-09-03T16:43:03.776925+00:00
+1.0,STARTUP,Official Company Website,https://cohere.com,Cohere,,2026-09-03T16:43:03.776952+00:00
+1.0,STARTUP,Official Company Website,https://mistral.ai,Mistral AI,,2026-09-03T16:43:03.776979+00:00
+1.0,STARTUP,Official Company Website,https://huggingface.co,Hugging Face,,2026-09-03T16:43:03.777007+00:00
+1.0,STARTUP,Official Company Website,https://stability.ai,Stability AI,,2026-09-03T16:43:03.777034+00:00
+1.0,STARTUP,Official Company Website,https://www.midjourney.com,Midjourney,,2026-09-03T16:43:03.777061+00:00
+1.0,STARTUP,Official Company Website,https://runwayml.com,Runway,,2026-09-03T16:43:03.777088+00:00
+1.0,STARTUP,Official Company Website,https://elevenlabs.io,ElevenLabs,,2026-09-03T16:43:03.777115+00:00
+1.0,STARTUP,Official Company Website,https://scale.com,Scale AI,,2026-09-03T16:43:03.777142+00:00
+1.0,STARTUP,Official Company Website,https://x.ai,xAI,,2026-09-03T16:43:03.777169+00:00
+1.0,STARTUP,Official Company Website,https://deepmind.google,DeepMind,,2026-09-03T16:43:03.777196+00:00
+1.0,STARTUP,Official Company Website,https://www.together.ai,Together AI,,2026-09-03T16:43:03.777224+00:00
+1.0,STARTUP,Official Company Website,https://www.glean.com,Glean,,2026-09-03T16:43:03.777251+00:00
+1.0,STARTUP,Official Company Website,https://www.adept.ai,Adept,,2026-09-03T16:43:03.777278+00:00
+1.0,STARTUP,Official Company Website,https://character.ai,Character AI,,2026-09-03T16:43:03.777305+00:00
+1.0,STARTUP,Official Company Website,https://pika.art,Pika Labs,,2026-09-03T16:43:03.777333+00:00
+1.0,STARTUP,Official Company Website,https://replit.com,Replit,,2026-09-03T16:43:03.777360+00:00
+1.0,STARTUP,Official Company Website,https://wandb.ai,Weights & Biases,,2026-09-03T16:43:03.777388+00:00
+1.0,STARTUP,Official Company Website,https://openai.com,OpenAI,,2026-09-03T16:43:03.777415+00:00
+1.0,STARTUP,Official Company Website,https://www.anthropic.com,Anthropic,,2026-09-03T16:43:03.777442+00:00
+1.0,STARTUP,Official Company Website,https://www.perplexity.ai,Perplexity,,2026-09-03T16:43:03.777470+00:00
+1.0,STARTUP,Official Company Website,https://cohere.com,Cohere,,2026-09-03T16:43:03.777497+00:00
+1.0,STARTUP,Official Company Website,https://mistral.ai,Mistral AI,,2026-09-03T16:43:03.777524+00:00
+1.0,STARTUP,Official Company Website,https://huggingface.co,Hugging Face,,2026-09-03T16:43:03.777551+00:00
+1.0,STARTUP,Official Company Website,https://stability.ai,Stability AI,,2026-09-03T16:43:03.777579+00:00
+1.0,STARTUP,Official Company Website,https://www.midjourney.com,Midjourney,,2026-09-03T16:43:03.777607+00:00
+1.0,STARTUP,Official Company Website,https://runwayml.com,Runway,,2026-09-03T16:43:03.777634+00:00
+1.0,STARTUP,Official Company Website,https://elevenlabs.io,ElevenLabs,,2026-09-03T16:43:03.777662+00:00
+1.0,STARTUP,Official Company Website,https://scale.com,Scale AI,,2026-09-03T16:43:03.777690+00:00
+1.0,STARTUP,Official Company Website,https://x.ai,xAI,,2026-09-03T16:43:03.777717+00:00
+1.0,STARTUP,Official Company Website,https://deepmind.google,DeepMind,,2026-09-03T16:43:03.777744+00:00
+1.0,STARTUP,Official Company Website,https://www.together.ai,Together AI,,2026-09-03T16:43:03.777772+00:00
+1.0,STARTUP,Official Company Website,https://www.glean.com,Glean,,2026-09-03T16:43:03.777800+00:00
+1.0,STARTUP,Official Company Website,https://www.adept.ai,Adept,,2026-09-03T16:43:03.777830+00:00
+1.0,STARTUP,Official Company Website,https://character.ai,Character AI,,2026-09-03T16:43:03.777858+00:00
+1.0,STARTUP,Official Company Website,https://pika.art,Pika Labs,,2026-09-03T16:43:03.777886+00:00
+1.0,STARTUP,Official Company Website,https://replit.com,Replit,,2026-09-03T16:43:03.777913+00:00
+1.0,STARTUP,Official Company Website,https://wandb.ai,Weights & Biases,,2026-09-03T16:43:03.777939+00:00
+1.0,STARTUP,Official Company Website,https://openai.com,OpenAI,,2026-09-03T16:43:03.777967+00:00
+1.0,STARTUP,Official Company Website,https://www.anthropic.com,Anthropic,,2026-09-03T16:43:03.777994+00:00
+1.0,STARTUP,Official Company Website,https://www.perplexity.ai,Perplexity,,2026-09-03T16:43:03.778021+00:00
+1.0,STARTUP,Official Company Website,https://cohere.com,Cohere,,2026-09-03T16:43:03.778049+00:00
+1.0,STARTUP,Official Company Website,https://mistral.ai,Mistral AI,,2026-09-03T16:43:03.778076+00:00
+1.0,STARTUP,Official Company Website,https://huggingface.co,Hugging Face,,2026-09-03T16:43:03.778103+00:00
+1.0,STARTUP,Official Company Website,https://stability.ai,Stability AI,,2026-09-03T16:43:03.778131+00:00
+1.0,STARTUP,Official Company Website,https://www.midjourney.com,Midjourney,,2026-09-03T16:43:03.778158+00:00
+1.0,STARTUP,Official Company Website,https://runwayml.com,Runway,,2026-09-03T16:43:03.778185+00:00
+1.0,STARTUP,Official Company Website,https://elevenlabs.io,ElevenLabs,,2026-09-03T16:43:03.778213+00:00
+1.0,STARTUP,Official Company Website,https://scale.com,Scale AI,,2026-09-03T16:43:03.778240+00:00
+1.0,STARTUP,Official Company Website,https://x.ai,xAI,,2026-09-03T16:43:03.778268+00:00
+1.0,STARTUP,Official Company Website,https://deepmind.google,DeepMind,,2026-09-03T16:43:03.778295+00:00
+1.0,STARTUP,Official Company Website,https://www.together.ai,Together AI,,2026-09-03T16:43:03.778325+00:00
+1.0,STARTUP,Official Company Website,https://www.glean.com,Glean,,2026-09-03T16:43:03.778353+00:00
+1.0,STARTUP,Official Company Website,https://www.adept.ai,Adept,,2026-09-03T16:43:03.778380+00:00
+1.0,STARTUP,Official Company Website,https://character.ai,Character AI,,2026-09-03T16:43:03.778407+00:00
+1.0,STARTUP,Official Company Website,https://pika.art,Pika Labs,,2026-09-03T16:43:03.778434+00:00
+1.0,STARTUP,Official Company Website,https://replit.com,Replit,,2026-09-03T16:43:03.778461+00:00
+1.0,STARTUP,Official Company Website,https://wandb.ai,Weights & Biases,,2026-09-03T16:43:03.778488+00:00
+1.0,STARTUP,Official Company Website,https://openai.com,OpenAI,,2026-09-03T16:43:03.778515+00:00
+1.0,STARTUP,Official Company Website,https://www.anthropic.com,Anthropic,,2026-09-03T16:43:03.778542+00:00
+1.0,STARTUP,Official Company Website,https://www.perplexity.ai,Perplexity,,2026-09-03T16:43:03.778570+00:00
+1.0,STARTUP,Official Company Website,https://cohere.com,Cohere,,2026-09-03T16:43:03.778597+00:00
+1.0,STARTUP,Official Company Website,https://mistral.ai,Mistral AI,,2026-09-03T16:43:03.778624+00:00
+1.0,STARTUP,Official Company Website,https://huggingface.co,Hugging Face,,2026-09-03T16:43:03.778651+00:00
+1.0,STARTUP,Official Company Website,https://stability.ai,Stability AI,,2026-09-03T16:43:03.778678+00:00
+1.0,STARTUP,Official Company Website,https://www.midjourney.com,Midjourney,,2026-09-03T16:43:03.778705+00:00
+1.0,STARTUP,Official Company Website,https://runwayml.com,Runway,,2026-09-03T16:43:03.778732+00:00
+1.0,STARTUP,Official Company Website,https://elevenlabs.io,ElevenLabs,,2026-09-03T16:43:03.778759+00:00
+1.0,STARTUP,Official Company Website,https://scale.com,Scale AI,,2026-09-03T16:43:03.778786+00:00
+1.0,STARTUP,Official Company Website,https://x.ai,xAI,,2026-09-03T16:43:03.778813+00:00
+1.0,STARTUP,Official Company Website,https://deepmind.google,DeepMind,,2026-09-03T16:43:03.778844+00:00
+1.0,STARTUP,Official Company Website,https://www.together.ai,Together AI,,2026-09-03T16:43:03.778872+00:00
+1.0,STARTUP,Official Company Website,https://www.glean.com,Glean,,2026-09-03T16:43:03.778899+00:00
+1.0,STARTUP,Official Company Website,https://www.adept.ai,Adept,,2026-09-03T16:43:03.778925+00:00
+1.0,STARTUP,Official Company Website,https://character.ai,Character AI,,2026-09-03T16:43:03.778953+00:00
+1.0,STARTUP,Official Company Website,https://pika.art,Pika Labs,,2026-09-03T16:43:03.778980+00:00
+1.0,STARTUP,Official Company Website,https://replit.com,Replit,,2026-09-03T16:43:03.779007+00:00
+1.0,STARTUP,Official Company Website,https://wandb.ai,Weights & Biases,,2026-09-03T16:43:03.779034+00:00
+1.0,STARTUP,Official Company Website,https://openai.com,OpenAI,,2026-09-03T16:43:03.779061+00:00
+1.0,STARTUP,Official Company Website,https://www.anthropic.com,Anthropic,,2026-09-03T16:43:03.779088+00:00
+1.0,STARTUP,Official Company Website,https://www.perplexity.ai,Perplexity,,2026-09-03T16:43:03.779115+00:00
+1.0,STARTUP,Official Company Website,https://cohere.com,Cohere,,2026-09-03T16:43:03.779143+00:00
+1.0,STARTUP,Official Company Website,https://mistral.ai,Mistral AI,,2026-09-03T16:43:03.779170+00:00
+1.0,STARTUP,Official Company Website,https://huggingface.co,Hugging Face,,2026-09-03T16:43:03.779197+00:00
+1.0,STARTUP,Official Company Website,https://stability.ai,Stability AI,,2026-09-03T16:43:03.779224+00:00
+1.0,STARTUP,Official Company Website,https://www.midjourney.com,Midjourney,,2026-09-03T16:43:03.779252+00:00
+1.0,STARTUP,Official Company Website,https://runwayml.com,Runway,,2026-09-03T16:43:03.779279+00:00
+1.0,STARTUP,Official Company Website,https://elevenlabs.io,ElevenLabs,,2026-09-03T16:43:03.779306+00:00
+1.0,STARTUP,Official Company Website,https://scale.com,Scale AI,,2026-09-03T16:43:03.779333+00:00
+1.0,STARTUP,Official Company Website,https://x.ai,xAI,,2026-09-03T16:43:03.779361+00:00
+1.0,STARTUP,Official Company Website,https://deepmind.google,DeepMind,,2026-09-03T16:43:03.779388+00:00
+1.0,STARTUP,Official Company Website,https://www.together.ai,Together AI,,2026-09-03T16:43:03.779415+00:00
+1.0,STARTUP,Official Company Website,https://www.glean.com,Glean,,2026-09-03T16:43:03.779442+00:00
+1.0,STARTUP,Official Company Website,https://www.adept.ai,Adept,,2026-09-03T16:43:03.779469+00:00
+1.0,STARTUP,Official Company Website,https://character.ai,Character AI,,2026-09-03T16:43:03.779497+00:00
+1.0,STARTUP,Official Company Website,https://pika.art,Pika Labs,,2026-09-03T16:43:03.779524+00:00
+1.0,STARTUP,Official Company Website,https://replit.com,Replit,,2026-09-03T16:43:03.779551+00:00
+1.0,STARTUP,Official Company Website,https://wandb.ai,Weights & Biases,,2026-09-03T16:43:03.779578+00:00
+1.0,STARTUP,Official Company Website,https://openai.com,OpenAI,,2026-09-03T16:43:03.779605+00:00
+1.0,STARTUP,Official Company Website,https://www.anthropic.com,Anthropic,,2026-09-03T16:43:03.779633+00:00
+1.0,STARTUP,Official Company Website,https://www.perplexity.ai,Perplexity,,2026-09-03T16:43:03.779660+00:00
+1.0,STARTUP,Official Company Website,https://cohere.com,Cohere,,2026-09-03T16:43:03.779687+00:00
+1.0,STARTUP,Official Company Website,https://mistral.ai,Mistral AI,,2026-09-03T16:43:03.779714+00:00
+1.0,STARTUP,Official Company Website,https://huggingface.co,Hugging Face,,2026-09-03T16:43:03.779741+00:00
+1.0,STARTUP,Official Company Website,https://stability.ai,Stability AI,,2026-09-03T16:43:03.779769+00:00
+1.0,STARTUP,Official Company Website,https://www.midjourney.com,Midjourney,,2026-09-03T16:43:03.779796+00:00
+1.0,STARTUP,Official Company Website,https://runwayml.com,Runway,,2026-09-03T16:43:03.779824+00:00
+1.0,STARTUP,Official Company Website,https://elevenlabs.io,ElevenLabs,,2026-09-03T16:43:03.779855+00:00
+1.0,STARTUP,Official Company Website,https://scale.com,Scale AI,,2026-09-03T16:43:03.779882+00:00
+1.0,STARTUP,Official Company Website,https://x.ai,xAI,,2026-09-03T16:43:03.779909+00:00
+1.0,STARTUP,Official Company Website,https://deepmind.google,DeepMind,,2026-09-03T16:43:03.779936+00:00
+1.0,STARTUP,Official Company Website,https://www.together.ai,Together AI,,2026-09-03T16:43:03.779963+00:00
+1.0,STARTUP,Official Company Website,https://www.glean.com,Glean,,2026-09-03T16:43:03.779990+00:00
+1.0,STARTUP,Official Company Website,https://www.adept.ai,Adept,,2026-09-03T16:43:03.780017+00:00
+1.0,STARTUP,Official Company Website,https://character.ai,Character AI,,2026-09-03T16:43:03.780044+00:00
+1.0,STARTUP,Official Company Website,https://pika.art,Pika Labs,,2026-09-03T16:43:03.780071+00:00
+1.0,STARTUP,Official Company Website,https://replit.com,Replit,,2026-09-03T16:43:03.780098+00:00
+1.0,STARTUP,Official Company Website,https://wandb.ai,Weights & Biases,,2026-09-03T16:43:03.780138+00:00
+1.0,STARTUP,Official Company Website,https://openai.com,OpenAI,,2026-09-03T16:43:03.780167+00:00
+1.0,STARTUP,Official Company Website,https://www.anthropic.com,Anthropic,,2026-09-03T16:43:03.780194+00:00
+1.0,STARTUP,Official Company Website,https://www.perplexity.ai,Perplexity,,2026-09-03T16:43:03.780222+00:00
+1.0,STARTUP,Official Company Website,https://cohere.com,Cohere,,2026-09-03T16:43:03.780248+00:00
+1.0,STARTUP,Official Company Website,https://mistral.ai,Mistral AI,,2026-09-03T16:43:03.780275+00:00
+1.0,STARTUP,Official Company Website,https://huggingface.co,Hugging Face,,2026-09-03T16:43:03.780302+00:00
+1.0,STARTUP,Official Company Website,https://stability.ai,Stability AI,,2026-09-03T16:43:03.780329+00:00
+1.0,STARTUP,Official Company Website,https://www.midjourney.com,Midjourney,,2026-09-03T16:43:03.780356+00:00
+1.0,STARTUP,Official Company Website,https://runwayml.com,Runway,,2026-09-03T16:43:03.780383+00:00
+1.0,STARTUP,Official Company Website,https://elevenlabs.io,ElevenLabs,,2026-09-03T16:43:03.780410+00:00
+1.0,STARTUP,Official Company Website,https://scale.com,Scale AI,,2026-09-03T16:43:03.780438+00:00
+1.0,STARTUP,Official Company Website,https://x.ai,xAI,,2026-09-03T16:43:03.780465+00:00
+1.0,STARTUP,Official Company Website,https://deepmind.google,DeepMind,,2026-09-03T16:43:03.780492+00:00
+1.0,STARTUP,Official Company Website,https://www.together.ai,Together AI,,2026-09-03T16:43:03.780522+00:00
+1.0,STARTUP,Official Company Website,https://www.glean.com,Glean,,2026-09-03T16:43:03.780550+00:00
+1.0,STARTUP,Official Company Website,https://www.adept.ai,Adept,,2026-09-03T16:43:03.780577+00:00
+1.0,STARTUP,Official Company Website,https://character.ai,Character AI,,2026-09-03T16:43:03.780604+00:00
+1.0,STARTUP,Official Company Website,https://pika.art,Pika Labs,,2026-09-03T16:43:03.780631+00:00
+1.0,STARTUP,Official Company Website,https://replit.com,Replit,,2026-09-03T16:43:03.780659+00:00
+1.0,STARTUP,Official Company Website,https://wandb.ai,Weights & Biases,,2026-09-03T16:43:03.780686+00:00
+1.0,STARTUP,Official Company Website,https://openai.com,OpenAI,,2026-09-03T16:43:03.780713+00:00
+1.0,STARTUP,Official Company Website,https://www.anthropic.com,Anthropic,,2026-09-03T16:43:03.780739+00:00
+1.0,STARTUP,Official Company Website,https://www.perplexity.ai,Perplexity,,2026-09-03T16:43:03.780766+00:00
+1.0,STARTUP,Official Company Website,https://cohere.com,Cohere,,2026-09-03T16:43:03.780794+00:00
+1.0,STARTUP,Official Company Website,https://mistral.ai,Mistral AI,,2026-09-03T16:43:03.780821+00:00
+1.0,STARTUP,Official Company Website,https://huggingface.co,Hugging Face,,2026-09-03T16:43:03.780853+00:00
+1.0,STARTUP,Official Company Website,https://stability.ai,Stability AI,,2026-09-03T16:43:03.780880+00:00
+1.0,STARTUP,Official Company Website,https://www.midjourney.com,Midjourney,,2026-09-03T16:43:03.780908+00:00
+1.0,STARTUP,Official Company Website,https://runwayml.com,Runway,,2026-09-03T16:43:03.780935+00:00
+1.0,STARTUP,Official Company Website,https://elevenlabs.io,ElevenLabs,,2026-09-03T16:43:03.780962+00:00
+1.0,STARTUP,Official Company Website,https://scale.com,Scale AI,,2026-09-03T16:43:03.780990+00:00
+1.0,STARTUP,Official Company Website,https://x.ai,xAI,,2026-09-03T16:43:03.781017+00:00
+1.0,STARTUP,Official Company Website,https://deepmind.google,DeepMind,,2026-09-03T16:43:03.781044+00:00
+1.0,STARTUP,Official Company Website,https://www.together.ai,Together AI,,2026-09-03T16:43:03.781071+00:00
+1.0,STARTUP,Official Company Website,https://www.glean.com,Glean,,2026-09-03T16:43:03.781099+00:00
+1.0,STARTUP,Official Company Website,https://www.adept.ai,Adept,,2026-09-03T16:43:03.781127+00:00
+1.0,STARTUP,Official Company Website,https://character.ai,Character AI,,2026-09-03T16:43:03.781155+00:00
+1.0,STARTUP,Official Company Website,https://pika.art,Pika Labs,,2026-09-03T16:43:03.781182+00:00
+1.0,STARTUP,Official Company Website,https://replit.com,Replit,,2026-09-03T16:43:03.781209+00:00
+1.0,STARTUP,Official Company Website,https://wandb.ai,Weights & Biases,,2026-09-03T16:43:03.781236+00:00
+1.0,STARTUP,Official Company Website,https://openai.com,OpenAI,,2026-09-03T16:43:03.781263+00:00
+1.0,STARTUP,Official Company Website,https://www.anthropic.com,Anthropic,,2026-09-03T16:43:03.781290+00:00
+1.0,STARTUP,Official Company Website,https://www.perplexity.ai,Perplexity,,2026-09-03T16:43:03.781317+00:00
+1.0,STARTUP,Official Company Website,https://cohere.com,Cohere,,2026-09-03T16:43:03.781345+00:00
+1.0,STARTUP,Official Company Website,https://mistral.ai,Mistral AI,,2026-09-03T16:43:03.781372+00:00
+1.0,STARTUP,Official Company Website,https://huggingface.co,Hugging Face,,2026-09-03T16:43:03.781399+00:00
+1.0,STARTUP,Official Company Website,https://stability.ai,Stability AI,,2026-09-03T16:43:03.781426+00:00
+1.0,STARTUP,Official Company Website,https://www.midjourney.com,Midjourney,,2026-09-03T16:43:03.781453+00:00
+1.0,STARTUP,Official Company Website,https://runwayml.com,Runway,,2026-09-03T16:43:03.781480+00:00
+1.0,STARTUP,Official Company Website,https://elevenlabs.io,ElevenLabs,,2026-09-03T16:43:03.781507+00:00
+1.0,STARTUP,Official Company Website,https://scale.com,Scale AI,,2026-09-03T16:43:03.781535+00:00
+1.0,STARTUP,Official Company Website,https://x.ai,xAI,,2026-09-03T16:43:03.781562+00:00
+1.0,STARTUP,Official Company Website,https://deepmind.google,DeepMind,,2026-09-03T16:43:03.781589+00:00
+1.0,STARTUP,Official Company Website,https://www.together.ai,Together AI,,2026-09-03T16:43:03.781616+00:00
+1.0,STARTUP,Official Company Website,https://www.glean.com,Glean,,2026-09-03T16:43:03.781643+00:00
+1.0,STARTUP,Official Company Website,https://www.adept.ai,Adept,,2026-09-03T16:43:03.781670+00:00
+1.0,STARTUP,Official Company Website,https://character.ai,Character AI,,2026-09-03T16:43:03.781698+00:00
+1.0,STARTUP,Official Company Website,https://pika.art,Pika Labs,,2026-09-03T16:43:03.781725+00:00
+1.0,STARTUP,Official Company Website,https://replit.com,Replit,,2026-09-03T16:43:03.781753+00:00
+1.0,STARTUP,Official Company Website,https://wandb.ai,Weights & Biases,,2026-09-03T16:43:03.781780+00:00
+1.0,STARTUP,Official Company Website,https://openai.com,OpenAI,,2026-09-03T16:43:03.781807+00:00
+1.0,STARTUP,Official Company Website,https://www.anthropic.com,Anthropic,,2026-09-03T16:43:03.781838+00:00
+1.0,STARTUP,Official Company Website,https://www.perplexity.ai,Perplexity,,2026-09-03T16:43:03.781865+00:00
+1.0,STARTUP,Official Company Website,https://cohere.com,Cohere,,2026-09-03T16:43:03.781893+00:00
+1.0,STARTUP,Official Company Website,https://mistral.ai,Mistral AI,,2026-09-03T16:43:03.781920+00:00
+1.0,STARTUP,Official Company Website,https://huggingface.co,Hugging Face,,2026-09-03T16:43:03.781947+00:00
+1.0,STARTUP,Official Company Website,https://stability.ai,Stability AI,,2026-09-03T16:43:03.781975+00:00
+1.0,STARTUP,Official Company Website,https://www.midjourney.com,Midjourney,,2026-09-03T16:43:03.782002+00:00
+1.0,STARTUP,Official Company Website,https://runwayml.com,Runway,,2026-09-03T16:43:03.782029+00:00
+1.0,STARTUP,Official Company Website,https://elevenlabs.io,ElevenLabs,,2026-09-03T16:43:03.782057+00:00
+1.0,STARTUP,Official Company Website,https://scale.com,Scale AI,,2026-09-03T16:43:03.782084+00:00
+1.0,STARTUP,Official Company Website,https://x.ai,xAI,,2026-09-03T16:43:03.782111+00:00
+1.0,STARTUP,Official Company Website,https://deepmind.google,DeepMind,,2026-09-03T16:43:03.782139+00:00
+1.0,STARTUP,Official Company Website,https://www.together.ai,Together AI,,2026-09-03T16:43:03.782166+00:00
+1.0,STARTUP,Official Company Website,https://www.glean.com,Glean,,2026-09-03T16:43:03.782193+00:00
+1.0,STARTUP,Official Company Website,https://www.adept.ai,Adept,,2026-09-03T16:43:03.782220+00:00
+1.0,STARTUP,Official Company Website,https://character.ai,Character AI,,2026-09-03T16:43:03.782247+00:00
+1.0,STARTUP,Official Company Website,https://pika.art,Pika Labs,,2026-09-03T16:43:03.782274+00:00
+1.0,STARTUP,Official Company Website,https://replit.com,Replit,,2026-09-03T16:43:03.782302+00:00
+1.0,STARTUP,Official Company Website,https://wandb.ai,Weights & Biases,,2026-09-03T16:43:03.782329+00:00
+1.0,STARTUP,Official Company Website,https://openai.com,OpenAI,,2026-09-03T16:43:03.782356+00:00
+1.0,STARTUP,Official Company Website,https://www.anthropic.com,Anthropic,,2026-09-03T16:43:03.782383+00:00
+1.0,STARTUP,Official Company Website,https://www.perplexity.ai,Perplexity,,2026-09-03T16:43:03.782410+00:00
+1.0,STARTUP,Official Company Website,https://cohere.com,Cohere,,2026-09-03T16:43:03.782437+00:00
+1.0,STARTUP,Official Company Website,https://mistral.ai,Mistral AI,,2026-09-03T16:43:03.782464+00:00
+1.0,STARTUP,Official Company Website,https://huggingface.co,Hugging Face,,2026-09-03T16:43:03.782492+00:00
+1.0,STARTUP,Official Company Website,https://stability.ai,Stability AI,,2026-09-03T16:43:03.782519+00:00
+1.0,STARTUP,Official Company Website,https://www.midjourney.com,Midjourney,,2026-09-03T16:43:03.782546+00:00
+1.0,STARTUP,Official Company Website,https://runwayml.com,Runway,,2026-09-03T16:43:03.782573+00:00
+1.0,STARTUP,Official Company Website,https://elevenlabs.io,ElevenLabs,,2026-09-03T16:43:03.782601+00:00
+1.0,STARTUP,Official Company Website,https://scale.com,Scale AI,,2026-09-03T16:43:03.782628+00:00
+1.0,STARTUP,Official Company Website,https://x.ai,xAI,,2026-09-03T16:43:03.782656+00:00
+1.0,STARTUP,Official Company Website,https://deepmind.google,DeepMind,,2026-09-03T16:43:03.782683+00:00
+1.0,STARTUP,Official Company Website,https://www.together.ai,Together AI,,2026-09-03T16:43:03.782710+00:00
+1.0,STARTUP,Official Company Website,https://www.glean.com,Glean,,2026-09-03T16:43:03.782738+00:00
+1.0,STARTUP,Official Company Website,https://www.adept.ai,Adept,,2026-09-03T16:43:03.782765+00:00
+1.0,STARTUP,Official Company Website,https://character.ai,Character AI,,2026-09-03T16:43:03.782792+00:00
+1.0,STARTUP,Official Company Website,https://pika.art,Pika Labs,,2026-09-03T16:43:03.782819+00:00
+1.0,STARTUP,Official Company Website,https://replit.com,Replit,,2026-09-03T16:43:03.782850+00:00
+1.0,STARTUP,Official Company Website,https://wandb.ai,Weights & Biases,,2026-09-03T16:43:03.782878+00:00
+1.0,STARTUP,Official Company Website,https://openai.com,OpenAI,,2026-09-03T16:43:03.782905+00:00
+1.0,STARTUP,Official Company Website,https://www.anthropic.com,Anthropic,,2026-09-03T16:43:03.782936+00:00
+1.0,STARTUP,Official Company Website,https://www.perplexity.ai,Perplexity,,2026-09-03T16:43:03.782963+00:00
+1.0,STARTUP,Official Company Website,https://cohere.com,Cohere,,2026-09-03T16:43:03.782990+00:00
+1.0,STARTUP,Official Company Website,https://mistral.ai,Mistral AI,,2026-09-03T16:43:03.783018+00:00
+1.0,STARTUP,Official Company Website,https://huggingface.co,Hugging Face,,2026-09-03T16:43:03.783044+00:00
+1.0,STARTUP,Official Company Website,https://stability.ai,Stability AI,,2026-09-03T16:43:03.783071+00:00
+1.0,STARTUP,Official Company Website,https://www.midjourney.com,Midjourney,,2026-09-03T16:43:03.783098+00:00
+1.0,STARTUP,Official Company Website,https://runwayml.com,Runway,,2026-09-03T16:43:03.783125+00:00
+1.0,STARTUP,Official Company Website,https://elevenlabs.io,ElevenLabs,,2026-09-03T16:43:03.783152+00:00
+1.0,STARTUP,Official Company Website,https://scale.com,Scale AI,,2026-09-03T16:43:03.783180+00:00
+1.0,STARTUP,Official Company Website,https://x.ai,xAI,,2026-09-03T16:43:03.783207+00:00
+1.0,STARTUP,Official Company Website,https://deepmind.google,DeepMind,,2026-09-03T16:43:03.783234+00:00
+1.0,STARTUP,Official Company Website,https://www.together.ai,Together AI,,2026-09-03T16:43:03.783261+00:00
+1.0,STARTUP,Official Company Website,https://www.glean.com,Glean,,2026-09-03T16:43:03.783287+00:00
+1.0,STARTUP,Official Company Website,https://www.adept.ai,Adept,,2026-09-03T16:43:03.783314+00:00
+1.0,STARTUP,Official Company Website,https://character.ai,Character AI,,2026-09-03T16:43:03.783341+00:00
+1.0,STARTUP,Official Company Website,https://pika.art,Pika Labs,,2026-09-03T16:43:03.783368+00:00
+1.0,STARTUP,Official Company Website,https://replit.com,Replit,,2026-09-03T16:43:03.783395+00:00
+1.0,STARTUP,Official Company Website,https://wandb.ai,Weights & Biases,,2026-09-03T16:43:03.783421+00:00
+1.0,STARTUP,Official Company Website,https://openai.com,OpenAI,,2026-09-03T16:43:03.783448+00:00
+1.0,STARTUP,Official Company Website,https://www.anthropic.com,Anthropic,,2026-09-03T16:43:03.783475+00:00
+1.0,STARTUP,Official Company Website,https://www.perplexity.ai,Perplexity,,2026-09-03T16:43:03.783502+00:00
+1.0,STARTUP,Official Company Website,https://cohere.com,Cohere,,2026-09-03T16:43:03.783530+00:00
+1.0,STARTUP,Official Company Website,https://mistral.ai,Mistral AI,,2026-09-03T16:43:03.783557+00:00
+1.0,STARTUP,Official Company Website,https://huggingface.co,Hugging Face,,2026-09-03T16:43:03.783584+00:00
+1.0,STARTUP,Official Company Website,https://stability.ai,Stability AI,,2026-09-03T16:43:03.783611+00:00
+1.0,STARTUP,Official Company Website,https://www.midjourney.com,Midjourney,,2026-09-03T16:43:03.783639+00:00
+1.0,STARTUP,Official Company Website,https://runwayml.com,Runway,,2026-09-03T16:43:03.783666+00:00
+1.0,STARTUP,Official Company Website,https://elevenlabs.io,ElevenLabs,,2026-09-03T16:43:03.783693+00:00
+1.0,STARTUP,Official Company Website,https://scale.com,Scale AI,,2026-09-03T16:43:03.783721+00:00
+1.0,STARTUP,Official Company Website,https://x.ai,xAI,,2026-09-03T16:43:03.783748+00:00
+1.0,STARTUP,Official Company Website,https://deepmind.google,DeepMind,,2026-09-03T16:43:03.783774+00:00
+1.0,STARTUP,Official Company Website,https://www.together.ai,Together AI,,2026-09-03T16:43:03.783801+00:00
+1.0,STARTUP,Official Company Website,https://www.glean.com,Glean,,2026-09-03T16:43:03.783831+00:00
+1.0,STARTUP,Official Company Website,https://www.adept.ai,Adept,,2026-09-03T16:43:03.783859+00:00
+1.0,STARTUP,Official Company Website,https://character.ai,Character AI,,2026-09-03T16:43:03.783887+00:00
+1.0,STARTUP,Official Company Website,https://pika.art,Pika Labs,,2026-09-03T16:43:03.783914+00:00
+1.0,STARTUP,Official Company Website,https://replit.com,Replit,,2026-09-03T16:43:03.783941+00:00
+1.0,STARTUP,Official Company Website,https://wandb.ai,Weights & Biases,,2026-09-03T16:43:03.783967+00:00
+1.0,STARTUP,Official Company Website,https://openai.com,OpenAI,,2026-09-03T16:43:03.783994+00:00
+1.0,STARTUP,Official Company Website,https://www.anthropic.com,Anthropic,,2026-09-03T16:43:03.784022+00:00
+1.0,STARTUP,Official Company Website,https://www.perplexity.ai,Perplexity,,2026-09-03T16:43:03.784049+00:00
+1.0,STARTUP,Official Company Website,https://cohere.com,Cohere,,2026-09-03T16:43:03.784076+00:00
+1.0,STARTUP,Official Company Website,https://mistral.ai,Mistral AI,,2026-09-03T16:43:03.784104+00:00
+1.0,STARTUP,Official Company Website,https://huggingface.co,Hugging Face,,2026-09-03T16:43:03.784131+00:00
+1.0,STARTUP,Official Company Website,https://stability.ai,Stability AI,,2026-09-03T16:43:03.784158+00:00
+1.0,STARTUP,Official Company Website,https://www.midjourney.com,Midjourney,,2026-09-03T16:43:03.784185+00:00
+1.0,STARTUP,Official Company Website,https://runwayml.com,Runway,,2026-09-03T16:43:03.784212+00:00
+1.0,STARTUP,Official Company Website,https://elevenlabs.io,ElevenLabs,,2026-09-03T16:43:03.784240+00:00
+1.0,STARTUP,Official Company Website,https://scale.com,Scale AI,,2026-09-03T16:43:03.784267+00:00
+1.0,STARTUP,Official Company Website,https://x.ai,xAI,,2026-09-03T16:43:03.784294+00:00
+1.0,STARTUP,Official Company Website,https://deepmind.google,DeepMind,,2026-09-03T16:43:03.784321+00:00
+1.0,STARTUP,Official Company Website,https://www.together.ai,Together AI,,2026-09-03T16:43:03.784348+00:00
+1.0,STARTUP,Official Company Website,https://www.glean.com,Glean,,2026-09-03T16:43:03.784375+00:00
+1.0,STARTUP,Official Company Website,https://www.adept.ai,Adept,,2026-09-03T16:43:03.784403+00:00
+1.0,STARTUP,Official Company Website,https://character.ai,Character AI,,2026-09-03T16:43:03.784430+00:00
+1.0,STARTUP,Official Company Website,https://pika.art,Pika Labs,,2026-09-03T16:43:03.784457+00:00
+1.0,STARTUP,Official Company Website,https://replit.com,Replit,,2026-09-03T16:43:03.784483+00:00
+1.0,STARTUP,Official Company Website,https://wandb.ai,Weights & Biases,,2026-09-03T16:43:03.784510+00:00
+1.0,STARTUP,Official Company Website,https://openai.com,OpenAI,,2026-09-03T16:43:03.784538+00:00
+1.0,STARTUP,Official Company Website,https://www.anthropic.com,Anthropic,,2026-09-03T16:43:03.784565+00:00
+1.0,STARTUP,Official Company Website,https://www.perplexity.ai,Perplexity,,2026-09-03T16:43:03.784592+00:00
+1.0,STARTUP,Official Company Website,https://cohere.com,Cohere,,2026-09-03T16:43:03.784619+00:00
+1.0,STARTUP,Official Company Website,https://mistral.ai,Mistral AI,,2026-09-03T16:43:03.784646+00:00
+1.0,STARTUP,Official Company Website,https://huggingface.co,Hugging Face,,2026-09-03T16:43:03.784674+00:00
+1.0,STARTUP,Official Company Website,https://stability.ai,Stability AI,,2026-09-03T16:43:03.784701+00:00
+1.0,STARTUP,Official Company Website,https://www.midjourney.com,Midjourney,,2026-09-03T16:43:03.784728+00:00
+1.0,STARTUP,Official Company Website,https://runwayml.com,Runway,,2026-09-03T16:43:03.784755+00:00
+1.0,STARTUP,Official Company Website,https://elevenlabs.io,ElevenLabs,,2026-09-03T16:43:03.784782+00:00
+1.0,STARTUP,Official Company Website,https://scale.com,Scale AI,,2026-09-03T16:43:03.784810+00:00
+1.0,STARTUP,Official Company Website,https://x.ai,xAI,,2026-09-03T16:43:03.784840+00:00
+1.0,STARTUP,Official Company Website,https://deepmind.google,DeepMind,,2026-09-03T16:43:03.784868+00:00
+1.0,STARTUP,Official Company Website,https://www.together.ai,Together AI,,2026-09-03T16:43:03.784895+00:00
+1.0,STARTUP,Official Company Website,https://www.glean.com,Glean,,2026-09-03T16:43:03.784922+00:00
+1.0,STARTUP,Official Company Website,https://www.adept.ai,Adept,,2026-09-03T16:43:03.784949+00:00
+1.0,STARTUP,Official Company Website,https://character.ai,Character AI,,2026-09-03T16:43:03.784977+00:00
+1.0,STARTUP,Official Company Website,https://pika.art,Pika Labs,,2026-09-03T16:43:03.785003+00:00
+1.0,STARTUP,Official Company Website,https://replit.com,Replit,,2026-09-03T16:43:03.785030+00:00
+1.0,STARTUP,Official Company Website,https://wandb.ai,Weights & Biases,,2026-09-03T16:43:03.785057+00:00
+1.0,STARTUP,Official Company Website,https://openai.com,OpenAI,,2026-09-03T16:43:03.785084+00:00
+1.0,STARTUP,Official Company Website,https://www.anthropic.com,Anthropic,,2026-09-03T16:43:03.785111+00:00
+1.0,STARTUP,Official Company Website,https://www.perplexity.ai,Perplexity,,2026-09-03T16:43:03.785151+00:00
+1.0,STARTUP,Official Company Website,https://cohere.com,Cohere,,2026-09-03T16:43:03.785179+00:00
+1.0,STARTUP,Official Company Website,https://mistral.ai,Mistral AI,,2026-09-03T16:43:03.785206+00:00
+1.0,STARTUP,Official Company Website,https://huggingface.co,Hugging Face,,2026-09-03T16:43:03.785234+00:00
+1.0,STARTUP,Official Company Website,https://stability.ai,Stability AI,,2026-09-03T16:43:03.785261+00:00
+1.0,STARTUP,Official Company Website,https://www.midjourney.com,Midjourney,,2026-09-03T16:43:03.785288+00:00
+1.0,STARTUP,Official Company Website,https://runwayml.com,Runway,,2026-09-03T16:43:03.785315+00:00
+1.0,STARTUP,Official Company Website,https://elevenlabs.io,ElevenLabs,,2026-09-03T16:43:03.785342+00:00
+1.0,STARTUP,Official Company Website,https://scale.com,Scale AI,,2026-09-03T16:43:03.785369+00:00
+1.0,STARTUP,Official Company Website,https://x.ai,xAI,,2026-09-03T16:43:03.785396+00:00
+1.0,STARTUP,Official Company Website,https://deepmind.google,DeepMind,,2026-09-03T16:43:03.785424+00:00
+1.0,STARTUP,Official Company Website,https://www.together.ai,Together AI,,2026-09-03T16:43:03.785451+00:00
+1.0,STARTUP,Official Company Website,https://www.glean.com,Glean,,2026-09-03T16:43:03.785478+00:00
+1.0,STARTUP,Official Company Website,https://www.adept.ai,Adept,,2026-09-03T16:43:03.785505+00:00
+1.0,STARTUP,Official Company Website,https://character.ai,Character AI,,2026-09-03T16:43:03.785532+00:00
+1.0,STARTUP,Official Company Website,https://pika.art,Pika Labs,,2026-09-03T16:43:03.785559+00:00
+1.0,STARTUP,Official Company Website,https://replit.com,Replit,,2026-09-03T16:43:03.785586+00:00
+1.0,STARTUP,Official Company Website,https://wandb.ai,Weights & Biases,,2026-09-03T16:43:03.785614+00:00
+1.0,STARTUP,Official Company Website,https://openai.com,OpenAI,,2026-09-03T16:43:03.785641+00:00
+1.0,STARTUP,Official Company Website,https://www.anthropic.com,Anthropic,,2026-09-03T16:43:03.785671+00:00
+1.0,STARTUP,Official Company Website,https://www.perplexity.ai,Perplexity,,2026-09-03T16:43:03.785699+00:00
+1.0,STARTUP,Official Company Website,https://cohere.com,Cohere,,2026-09-03T16:43:03.785726+00:00
+1.0,STARTUP,Official Company Website,https://mistral.ai,Mistral AI,,2026-09-03T16:43:03.785753+00:00
+1.0,STARTUP,Official Company Website,https://huggingface.co,Hugging Face,,2026-09-03T16:43:03.785780+00:00
+1.0,STARTUP,Official Company Website,https://stability.ai,Stability AI,,2026-09-03T16:43:03.785807+00:00
+1.0,STARTUP,Official Company Website,https://www.midjourney.com,Midjourney,,2026-09-03T16:43:03.785839+00:00
+1.0,STARTUP,Official Company Website,https://runwayml.com,Runway,,2026-09-03T16:43:03.785866+00:00
+1.0,STARTUP,Official Company Website,https://elevenlabs.io,ElevenLabs,,2026-09-03T16:43:03.785894+00:00
+1.0,STARTUP,Official Company Website,https://scale.com,Scale AI,,2026-09-03T16:43:03.785921+00:00
+1.0,STARTUP,Official Company Website,https://x.ai,xAI,,2026-09-03T16:43:03.785947+00:00
+1.0,STARTUP,Official Company Website,https://deepmind.google,DeepMind,,2026-09-03T16:43:03.785975+00:00
+1.0,STARTUP,Official Company Website,https://www.together.ai,Together AI,,2026-09-03T16:43:03.786002+00:00
+1.0,STARTUP,Official Company Website,https://www.glean.com,Glean,,2026-09-03T16:43:03.786029+00:00
+1.0,STARTUP,Official Company Website,https://www.adept.ai,Adept,,2026-09-03T16:43:03.786056+00:00
+1.0,STARTUP,Official Company Website,https://character.ai,Character AI,,2026-09-03T16:43:03.786083+00:00
+1.0,STARTUP,Official Company Website,https://pika.art,Pika Labs,,2026-09-03T16:43:03.786109+00:00
+1.0,STARTUP,Official Company Website,https://replit.com,Replit,,2026-09-03T16:43:03.786136+00:00
+1.0,STARTUP,Official Company Website,https://wandb.ai,Weights & Biases,,2026-09-03T16:43:03.786164+00:00
+1.0,STARTUP,Official Company Website,https://openai.com,OpenAI,,2026-09-03T16:43:03.786190+00:00
+1.0,STARTUP,Official Company Website,https://www.anthropic.com,Anthropic,,2026-09-03T16:43:03.786217+00:00
+1.0,STARTUP,Official Company Website,https://www.perplexity.ai,Perplexity,,2026-09-03T16:43:03.786245+00:00
+1.0,STARTUP,Official Company Website,https://cohere.com,Cohere,,2026-09-03T16:43:03.786272+00:00
+1.0,STARTUP,Official Company Website,https://mistral.ai,Mistral AI,,2026-09-03T16:43:03.786300+00:00
+1.0,STARTUP,Official Company Website,https://huggingface.co,Hugging Face,,2026-09-03T16:43:03.786327+00:00
+1.0,STARTUP,Official Company Website,https://stability.ai,Stability AI,,2026-09-03T16:43:03.786354+00:00
+1.0,STARTUP,Official Company Website,https://www.midjourney.com,Midjourney,,2026-09-03T16:43:03.786381+00:00
+1.0,STARTUP,Official Company Website,https://runwayml.com,Runway,,2026-09-03T16:43:03.786408+00:00
+1.0,STARTUP,Official Company Website,https://elevenlabs.io,ElevenLabs,,2026-09-03T16:43:03.786435+00:00
+1.0,STARTUP,Official Company Website,https://scale.com,Scale AI,,2026-09-03T16:43:03.786462+00:00
+1.0,STARTUP,Official Company Website,https://x.ai,xAI,,2026-09-03T16:43:03.786489+00:00
+1.0,STARTUP,Official Company Website,https://deepmind.google,DeepMind,,2026-09-03T16:43:03.786516+00:00
+1.0,STARTUP,Official Company Website,https://www.together.ai,Together AI,,2026-09-03T16:43:03.786543+00:00
+1.0,STARTUP,Official Company Website,https://www.glean.com,Glean,,2026-09-03T16:43:03.786570+00:00
+1.0,STARTUP,Official Company Website,https://www.adept.ai,Adept,,2026-09-03T16:43:03.786597+00:00
+1.0,STARTUP,Official Company Website,https://character.ai,Character AI,,2026-09-03T16:43:03.786624+00:00
+1.0,STARTUP,Official Company Website,https://pika.art,Pika Labs,,2026-09-03T16:43:03.786651+00:00
+1.0,STARTUP,Official Company Website,https://replit.com,Replit,,2026-09-03T16:43:03.786678+00:00
+1.0,STARTUP,Official Company Website,https://wandb.ai,Weights & Biases,,2026-09-03T16:43:03.786705+00:00
+1.0,STARTUP,Official Company Website,https://openai.com,OpenAI,,2026-09-03T16:43:03.786733+00:00
+1.0,STARTUP,Official Company Website,https://www.anthropic.com,Anthropic,,2026-09-03T16:43:03.786760+00:00
+1.0,STARTUP,Official Company Website,https://www.perplexity.ai,Perplexity,,2026-09-03T16:43:03.786787+00:00
+1.0,STARTUP,Official Company Website,https://cohere.com,Cohere,,2026-09-03T16:43:03.786814+00:00
+1.0,STARTUP,Official Company Website,https://mistral.ai,Mistral AI,,2026-09-03T16:43:03.786845+00:00
+1.0,STARTUP,Official Company Website,https://huggingface.co,Hugging Face,,2026-09-03T16:43:03.786873+00:00
+1.0,STARTUP,Official Company Website,https://stability.ai,Stability AI,,2026-09-03T16:43:03.786900+00:00
+1.0,STARTUP,Official Company Website,https://www.midjourney.com,Midjourney,,2026-09-03T16:43:03.786927+00:00
+1.0,STARTUP,Official Company Website,https://runwayml.com,Runway,,2026-09-03T16:43:03.786954+00:00
+1.0,STARTUP,Official Company Website,https://elevenlabs.io,ElevenLabs,,2026-09-03T16:43:03.786982+00:00
+1.0,STARTUP,Official Company Website,https://scale.com,Scale AI,,2026-09-03T16:43:03.787009+00:00
+1.0,STARTUP,Official Company Website,https://x.ai,xAI,,2026-09-03T16:43:03.787036+00:00
+1.0,STARTUP,Official Company Website,https://deepmind.google,DeepMind,,2026-09-03T16:43:03.787064+00:00
+1.0,STARTUP,Official Company Website,https://www.together.ai,Together AI,,2026-09-03T16:43:03.787091+00:00
+1.0,STARTUP,Official Company Website,https://www.glean.com,Glean,,2026-09-03T16:43:03.787119+00:00
+1.0,STARTUP,Official Company Website,https://www.adept.ai,Adept,,2026-09-03T16:43:03.787146+00:00
+1.0,STARTUP,Official Company Website,https://character.ai,Character AI,,2026-09-03T16:43:03.787173+00:00
+1.0,STARTUP,Official Company Website,https://pika.art,Pika Labs,,2026-09-03T16:43:03.787200+00:00
+1.0,STARTUP,Official Company Website,https://replit.com,Replit,,2026-09-03T16:43:03.787227+00:00
+1.0,STARTUP,Official Company Website,https://wandb.ai,Weights & Biases,,2026-09-03T16:43:03.787254+00:00
+1.0,STARTUP,Official Company Website,https://openai.com,OpenAI,,2026-09-03T16:43:03.787281+00:00
+1.0,STARTUP,Official Company Website,https://www.anthropic.com,Anthropic,,2026-09-03T16:43:03.787309+00:00
+1.0,STARTUP,Official Company Website,https://www.perplexity.ai,Perplexity,,2026-09-03T16:43:03.787336+00:00
+1.0,STARTUP,Official Company Website,https://cohere.com,Cohere,,2026-09-03T16:43:03.787364+00:00
+1.0,STARTUP,Official Company Website,https://mistral.ai,Mistral AI,,2026-09-03T16:43:03.787391+00:00
+1.0,STARTUP,Official Company Website,https://huggingface.co,Hugging Face,,2026-09-03T16:43:03.787418+00:00
+1.0,STARTUP,Official Company Website,https://stability.ai,Stability AI,,2026-09-03T16:43:03.787446+00:00
+1.0,STARTUP,Official Company Website,https://www.midjourney.com,Midjourney,,2026-09-03T16:43:03.787473+00:00
+1.0,STARTUP,Official Company Website,https://runwayml.com,Runway,,2026-09-03T16:43:03.787500+00:00
+1.0,STARTUP,Official Company Website,https://elevenlabs.io,ElevenLabs,,2026-09-03T16:43:03.787526+00:00
+1.0,STARTUP,Official Company Website,https://scale.com,Scale AI,,2026-09-03T16:43:03.787553+00:00
+1.0,STARTUP,Official Company Website,https://x.ai,xAI,,2026-09-03T16:43:03.787580+00:00
+1.0,STARTUP,Official Company Website,https://deepmind.google,DeepMind,,2026-09-03T16:43:03.787608+00:00
+1.0,STARTUP,Official Company Website,https://www.together.ai,Together AI,,2026-09-03T16:43:03.787635+00:00
+1.0,STARTUP,Official Company Website,https://www.glean.com,Glean,,2026-09-03T16:43:03.787662+00:00
+1.0,STARTUP,Official Company Website,https://www.adept.ai,Adept,,2026-09-03T16:43:03.787689+00:00
+1.0,STARTUP,Official Company Website,https://character.ai,Character AI,,2026-09-03T16:43:03.787716+00:00
+1.0,STARTUP,Official Company Website,https://pika.art,Pika Labs,,2026-09-03T16:43:03.787743+00:00
+1.0,STARTUP,Official Company Website,https://replit.com,Replit,,2026-09-03T16:43:03.787770+00:00
+1.0,STARTUP,Official Company Website,https://wandb.ai,Weights & Biases,,2026-09-03T16:43:03.787797+00:00
+1.0,STARTUP,Official Company Website,https://openai.com,OpenAI,,2026-09-03T16:43:03.787916+00:00
+1.0,STARTUP,Official Company Website,https://www.anthropic.com,Anthropic,,2026-09-03T16:43:03.788146+00:00
+1.0,STARTUP,Official Company Website,https://www.perplexity.ai,Perplexity,,2026-09-03T16:43:03.788291+00:00
+1.0,STARTUP,Official Company Website,https://cohere.com,Cohere,,2026-09-03T16:43:03.788351+00:00
+1.0,STARTUP,Official Company Website,https://mistral.ai,Mistral AI,,2026-09-03T16:43:03.788401+00:00
+1.0,STARTUP,Official Company Website,https://huggingface.co,Hugging Face,,2026-09-03T16:43:03.788503+00:00
+1.0,STARTUP,Official Company Website,https://stability.ai,Stability AI,,2026-09-03T16:43:03.788645+00:00
+1.0,STARTUP,Official Company Website,https://www.midjourney.com,Midjourney,,2026-09-03T16:43:03.788686+00:00
+1.0,STARTUP,Official Company Website,https://runwayml.com,Runway,,2026-09-03T16:43:03.788716+00:00
+1.0,STARTUP,Official Company Website,https://elevenlabs.io,ElevenLabs,,2026-09-03T16:43:03.788744+00:00
+1.0,STARTUP,Official Company Website,https://scale.com,Scale AI,,2026-09-03T16:43:03.788773+00:00
+1.0,STARTUP,Official Company Website,https://x.ai,xAI,,2026-09-03T16:43:03.788801+00:00
+1.0,STARTUP,Official Company Website,https://deepmind.google,DeepMind,,2026-09-03T16:43:03.788835+00:00
+1.0,STARTUP,Official Company Website,https://www.together.ai,Together AI,,2026-09-03T16:43:03.788863+00:00
+1.0,STARTUP,Official Company Website,https://www.glean.com,Glean,,2026-09-03T16:43:03.788891+00:00
+1.0,STARTUP,Official Company Website,https://www.adept.ai,Adept,,2026-09-03T16:43:03.788918+00:00
+1.0,STARTUP,Official Company Website,https://character.ai,Character AI,,2026-09-03T16:43:03.788945+00:00
+1.0,STARTUP,Official Company Website,https://pika.art,Pika Labs,,2026-09-03T16:43:03.788973+00:00
+1.0,STARTUP,Official Company Website,https://replit.com,Replit,,2026-09-03T16:43:03.789000+00:00
+1.0,STARTUP,Official Company Website,https://wandb.ai,Weights & Biases,,2026-09-03T16:43:03.789027+00:00
+1.0,STARTUP,Official Company Website,https://openai.com,OpenAI,,2026-09-03T16:43:03.789055+00:00
+1.0,STARTUP,Official Company Website,https://www.anthropic.com,Anthropic,,2026-09-03T16:43:03.789082+00:00
+1.0,STARTUP,Official Company Website,https://www.perplexity.ai,Perplexity,,2026-09-03T16:43:03.789109+00:00
+1.0,STARTUP,Official Company Website,https://cohere.com,Cohere,,2026-09-03T16:43:03.789137+00:00
+1.0,STARTUP,Official Company Website,https://mistral.ai,Mistral AI,,2026-09-03T16:43:03.789164+00:00
+1.0,STARTUP,Official Company Website,https://huggingface.co,Hugging Face,,2026-09-03T16:43:03.789192+00:00
+1.0,STARTUP,Official Company Website,https://stability.ai,Stability AI,,2026-09-03T16:43:03.789219+00:00
+1.0,STARTUP,Official Company Website,https://www.midjourney.com,Midjourney,,2026-09-03T16:43:03.789246+00:00
+1.0,STARTUP,Official Company Website,https://runwayml.com,Runway,,2026-09-03T16:43:03.789274+00:00
+1.0,STARTUP,Official Company Website,https://elevenlabs.io,ElevenLabs,,2026-09-03T16:43:03.789301+00:00
+1.0,STARTUP,Official Company Website,https://scale.com,Scale AI,,2026-09-03T16:43:03.789328+00:00
+1.0,STARTUP,Official Company Website,https://x.ai,xAI,,2026-09-03T16:43:03.789355+00:00
+1.0,STARTUP,Official Company Website,https://deepmind.google,DeepMind,,2026-09-03T16:43:03.789383+00:00
+1.0,STARTUP,Official Company Website,https://www.together.ai,Together AI,,2026-09-03T16:43:03.789423+00:00
+1.0,STARTUP,Official Company Website,https://www.glean.com,Glean,,2026-09-03T16:43:03.789452+00:00
+1.0,STARTUP,Official Company Website,https://www.adept.ai,Adept,,2026-09-03T16:43:03.789479+00:00
+1.0,STARTUP,Official Company Website,https://character.ai,Character AI,,2026-09-03T16:43:03.789506+00:00
+1.0,STARTUP,Official Company Website,https://pika.art,Pika Labs,,2026-09-03T16:43:03.789533+00:00
+1.0,STARTUP,Official Company Website,https://replit.com,Replit,,2026-09-03T16:43:03.789561+00:00
+1.0,STARTUP,Official Company Website,https://wandb.ai,Weights & Biases,,2026-09-03T16:43:03.789588+00:00
+1.0,STARTUP,Official Company Website,https://openai.com,OpenAI,,2026-09-03T16:43:03.789615+00:00
+1.0,STARTUP,Official Company Website,https://www.anthropic.com,Anthropic,,2026-09-03T16:43:03.789643+00:00
+1.0,STARTUP,Official Company Website,https://www.perplexity.ai,Perplexity,,2026-09-03T16:43:03.789670+00:00
+1.0,STARTUP,Official Company Website,https://cohere.com,Cohere,,2026-09-03T16:43:03.789698+00:00
+1.0,STARTUP,Official Company Website,https://mistral.ai,Mistral AI,,2026-09-03T16:43:03.789725+00:00
+1.0,STARTUP,Official Company Website,https://huggingface.co,Hugging Face,,2026-09-03T16:43:03.789753+00:00
+1.0,STARTUP,Official Company Website,https://stability.ai,Stability AI,,2026-09-03T16:43:03.789782+00:00
+1.0,STARTUP,Official Company Website,https://www.midjourney.com,Midjourney,,2026-09-03T16:43:03.789809+00:00
+1.0,STARTUP,Official Company Website,https://runwayml.com,Runway,,2026-09-03T16:43:03.789844+00:00
+1.0,STARTUP,Official Company Website,https://elevenlabs.io,ElevenLabs,,2026-09-03T16:43:03.789872+00:00
+1.0,STARTUP,Official Company Website,https://scale.com,Scale AI,,2026-09-03T16:43:03.789899+00:00
+1.0,STARTUP,Official Company Website,https://x.ai,xAI,,2026-09-03T16:43:03.789927+00:00
+1.0,STARTUP,Official Company Website,https://deepmind.google,DeepMind,,2026-09-03T16:43:03.789954+00:00
+1.0,STARTUP,Official Company Website,https://www.together.ai,Together AI,,2026-09-03T16:43:03.789981+00:00
+1.0,STARTUP,Official Company Website,https://www.glean.com,Glean,,2026-09-03T16:43:03.790008+00:00
+1.0,STARTUP,Official Company Website,https://www.adept.ai,Adept,,2026-09-03T16:43:03.790035+00:00
+1.0,STARTUP,Official Company Website,https://character.ai,Character AI,,2026-09-03T16:43:03.790062+00:00
+1.0,STARTUP,Official Company Website,https://pika.art,Pika Labs,,2026-09-03T16:43:03.790089+00:00
+1.0,STARTUP,Official Company Website,https://replit.com,Replit,,2026-09-03T16:43:03.790116+00:00
+1.0,STARTUP,Official Company Website,https://wandb.ai,Weights & Biases,,2026-09-03T16:43:03.790143+00:00

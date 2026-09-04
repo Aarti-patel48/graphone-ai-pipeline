@@ -1,0 +1,64 @@
+# GraphOne AI Intelligence Pipeline
+
+## Overview
+
+This project is built for the GraphOne / FrontierAtlas AI Data Intelligence Internship Assessment.
+
+The pipeline collects structured AI intelligence from multiple public sources including research papers, startups, products, jobs, and news.
+
+## Features
+
+* Research Paper Scraper (arXiv)
+* GitHub Metrics Extraction
+* AI Startup Dataset
+* AI Product Dataset
+* AI News Scraper
+* AI Jobs Scraper (Greenhouse API)
+* Entity Resolution Engine
+
+## Tech Stack
+
+* Python
+* Pandas
+* Requests
+* Feedparser
+* BeautifulSoup
+* aiohttp
+
+## Project Structure
+
+graphone-ai-pipeline/
+├── src/
+├── data/
+├── logs/
+├── requirements.txt
+├── README.md
+└── architecture.pdf
+
+## Output Files
+
+* startups.csv
+* products.csv
+* research_papers.csv
+* research_papers_with_github.csv
+* news.csv
+* jobs.csv
+* startups_resolved.csv
+* entity_mapping_log.csv
+
+## Run the Project
+
+pip install -r requirements.txt
+
+python src/arxiv_scraper.py
+python src/startup_scraper.py
+python src/product_scraper.py
+python src/news_scraper.py
+python src/jobs_scraper.py
+python src/entity_resolver.py
+
+## Author
+
+Aarti Patel
+B.Tech Computer Science Engineering
+Shri Dadaji Institute of Technology and Science

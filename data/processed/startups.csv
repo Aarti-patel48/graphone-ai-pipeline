@@ -1,0 +1,21 @@
+schemaVersion,recordType,source_name,source_url,entityName,employeeCount,collectedAt
+1.0,STARTUP,GitHub Organization API,https://github.com/openai,openai,,2026-09-04T14:46:38.866032+00:00
+1.0,STARTUP,GitHub Organization API,https://github.com/huggingface,huggingface,,2026-09-04T14:46:39.235891+00:00
+1.0,STARTUP,GitHub Organization API,https://github.com/mistralai,mistralai,,2026-09-04T14:46:39.600288+00:00
+1.0,STARTUP,GitHub Organization API,https://github.com/cohere-ai,cohere-ai,,2026-09-04T14:46:39.944349+00:00
+1.0,STARTUP,GitHub Organization API,https://github.com/Stability-AI,Stability-AI,,2026-09-04T14:46:40.303901+00:00
+1.0,STARTUP,GitHub Organization API,https://github.com/runwayml,runwayml,,2026-09-04T14:46:40.684468+00:00
+1.0,STARTUP,GitHub Organization API,https://github.com/perplexity-ai,perplexity-ai,,2026-09-04T14:46:41.030490+00:00
+1.0,STARTUP,GitHub Organization API,https://github.com/scaleapi,scaleapi,,2026-09-04T14:46:41.378244+00:00
+1.0,STARTUP,GitHub Organization API,https://github.com/elevenlabs,elevenlabs,,2026-09-04T14:46:41.714945+00:00
+1.0,STARTUP,GitHub Organization API,https://github.com/deepmind,deepmind,,2026-09-04T14:46:42.077401+00:00
+1.0,STARTUP,GitHub Organization API,https://github.com/togethercomputer,togethercomputer,,2026-09-04T14:46:42.453745+00:00
+1.0,STARTUP,GitHub Organization API,https://github.com/replit,replit,,2026-09-04T14:46:42.822111+00:00
+1.0,STARTUP,GitHub Organization API,https://github.com/wandb,wandb,,2026-09-04T14:46:43.183807+00:00
+1.0,STARTUP,GitHub Organization API,https://github.com/langchain-ai,langchain-ai,,2026-09-04T14:46:43.534958+00:00
+1.0,STARTUP,GitHub Organization API,https://github.com/ollama,ollama,,2026-09-04T14:46:43.902251+00:00
+1.0,STARTUP,GitHub Organization API,https://github.com/modal-labs,modal-labs,,2026-09-04T14:46:44.266081+00:00
+1.0,STARTUP,GitHub Organization API,https://github.com/pinecone-io,pinecone-io,,2026-09-04T14:46:44.608487+00:00
+1.0,STARTUP,GitHub Organization API,https://github.com/groq,groq,,2026-09-04T14:46:44.975010+00:00
+1.0,STARTUP,GitHub Organization API,https://github.com/crewAIInc,crewAIInc,,2026-09-04T14:46:45.332114+00:00
+1.0,STARTUP,GitHub Organization API,https://github.com/continue-revolution,continue-revolution,,2026-09-04T14:46:45.682728+00:00
