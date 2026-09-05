@@ -1,64 +1,264 @@
-# GraphOne AI Intelligence Pipeline
+# 🚀 GraphOne AI Intelligence Pipeline
 
-## Overview
+**Production-style AI Intelligence Pipeline built for the GraphOne AI Internship Trial.**
 
-This project is built for the GraphOne / FrontierAtlas AI Data Intelligence Internship Assessment.
+This project collects structured AI intelligence from multiple public sources and prepares clean datasets for downstream knowledge graph ingestion.
 
-The pipeline collects structured AI intelligence from multiple public sources including research papers, startups, products, jobs, and news.
+---
 
-## Features
+## 👩‍💻 Author
 
-* Research Paper Scraper (arXiv)
-* GitHub Metrics Extraction
-* AI Startup Dataset
-* AI Product Dataset
-* AI News Scraper
-* AI Jobs Scraper (Greenhouse API)
-* Entity Resolution Engine
+**Aarti Patel**
 
-## Tech Stack
+B.Tech Computer Science Engineering
+
+Shri Dadaji Institute of Technology and Science, Khandwa, Madhya Pradesh
+
+GitHub: https://github.com/Aarti-patel48
+
+---
+
+# 📌 Project Overview
+
+The GraphOne AI Intelligence Pipeline automatically gathers fresh AI ecosystem data including:
+
+* AI Startups
+* AI Products
+* AI Research Papers
+* AI Jobs
+* AI News
+
+The pipeline performs asynchronous scraping, retry handling, payload chunking, LLM fallback orchestration, entity deduplication, and exports clean CSV datasets.
+
+---
+
+# ✨ Features
+
+* ✅ Async scraping using `asyncio` and `aiohttp`
+* ✅ Retry logic with exponential backoff for API rate limits
+* ✅ Payload chunking to prevent HTTP 413 errors
+* ✅ Multi-tier LLM fallback (Gemini → Groq → DeepSeek)
+* ✅ Freshness filtering for Jobs & News (last 24 hours)
+* ✅ Entity deduplication and canonical mapping
+* ✅ CSV export ready for PostgreSQL / Neo4j ingestion
+* ✅ Google Sheets export for review
+
+---
+
+# 🏗️ Pipeline Architecture
+
+Data Sources
+
+↓
+
+Async Crawlers
+
+↓
+
+Retry Engine (429 Handling)
+
+↓
+
+Payload Chunking (413 Prevention)
+
+↓
+
+LLM Extraction Engine
+
+↓
+
+Entity Resolution
+
+↓
+
+CSV Generation
+
+↓
+
+Google Sheets Export
+
+---
+
+# 📂 Project Structure
+
+graphone-ai-pipeline/
+
+├── README.md
+
+├── architecture.pdf
+
+├── requirements.txt
+
+├── src/
+
+│ ├── arxiv_scraper.py
+
+│ ├── news_scraper.py
+
+│ ├── jobs_scraper.py
+
+│ ├── product_scraper.py
+
+│ ├── async_startup_scraper.py
+
+│ ├── github_startup_scraper.py
+
+│ ├── merge_startups.py
+
+│ ├── retry_utils.py
+
+│ ├── chunking.py
+
+│ ├── llm_orchestrator.py
+
+│ └── test_retry.py
+
+└── data/
+
+└── processed/
+
+├── startups.csv
+
+├── products.csv
+
+├── research_papers.csv
+
+├── jobs.csv
+
+├── news.csv
+
+└── entity_mapping_log.csv
+
+---
+
+# 📊 Generated Datasets
+
+| Dataset                | Description                               |
+| ---------------------- | ----------------------------------------- |
+| startups.csv           | AI startups collected from public sources |
+| products.csv           | AI tools and products                     |
+| research_papers.csv    | Latest AI research papers                 |
+| jobs.csv               | Fresh AI job listings                     |
+| news.csv               | Latest AI news articles                   |
+| entity_mapping_log.csv | Canonical entity mapping log              |
+
+---
+
+# ⚙️ Scalability Strategy
+
+Designed for **500,000+ records/day**.
+
+Implemented strategies include:
+
+* Concurrent asynchronous workers.
+* Stateless scraping architecture.
+* Batch CSV writing.
+* Retry queues.
+* Duplicate removal before storage.
+
+---
+
+# 🧠 LLM Orchestration
+
+Primary Provider
+
+* Gemini Flash
+
+Fallback Providers
+
+* Groq Llama 3
+* DeepSeek
+
+If one provider fails, the next provider automatically processes the request.
+
+---
+
+# 🛡️ Error Handling
+
+## HTTP 429 — Too Many Requests
+
+Implemented exponential backoff with retry delays.
+
+Example:
+
+1 second → 2 seconds → 4 seconds → 8 seconds
+
+## HTTP 413 — Payload Too Large
+
+Large HTML documents are automatically split into semantic chunks before LLM processing.
+
+---
+
+# 📰 Freshness Strategy
+
+Jobs and News are filtered to include only recent records.
+
+The pipeline normalizes timestamps into ISO-8601 format before exporting.
+
+---
+
+# 💻 Tech Stack
 
 * Python
 * Pandas
-* Requests
-* Feedparser
-* BeautifulSoup
+* Asyncio
 * aiohttp
+* Requests
+* BeautifulSoup
+* GitHub API
+* ArXiv API
+* Google Sheets
 
-## Project Structure
+---
 
-graphone-ai-pipeline/
-├── src/
-├── data/
-├── logs/
-├── requirements.txt
-├── README.md
-└── architecture.pdf
+# ▶️ How to Run
 
-## Output Files
+Install dependencies
 
-* startups.csv
-* products.csv
-* research_papers.csv
-* research_papers_with_github.csv
-* news.csv
-* jobs.csv
-* startups_resolved.csv
-* entity_mapping_log.csv
-
-## Run the Project
-
+```bash
 pip install -r requirements.txt
+```
 
+Run scrapers
+
+```bash
 python src/arxiv_scraper.py
-python src/startup_scraper.py
-python src/product_scraper.py
-python src/news_scraper.py
 python src/jobs_scraper.py
-python src/entity_resolver.py
+python src/news_scraper.py
+python src/github_startup_scraper.py
+python src/product_scraper.py
+```
 
-## Author
+Run merge pipeline
 
-Aarti Patel
-B.Tech Computer Science Engineering
-Shri Dadaji Institute of Technology and Science
+```bash
+python src/merge_startups.py
+```
+
+Run retry test
+
+```bash
+python src/test_retry.py
+```
+
+Run LLM orchestrator
+
+```bash
+python src/llm_orchestrator.py
+```
+
+---
+
+# 📈 Output Summary
+
+* AI Startups: **1432**
+* AI Products: **1000+**
+* Research Papers: **1000**
+* AI Jobs: **797**
+* AI News: **40**
+
+---
+
+# 📄 Internship Submission
+
+This repository was created as part of the **GraphOne AI Internship Trial Assignment** and demonstrates scalable AI intelligence data collection, preprocessing, and orchestration techniques using Python.
