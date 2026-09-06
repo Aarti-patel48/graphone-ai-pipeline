@@ -1,70 +1,110 @@
-# Getting Started with Create React App
+# GraphOne AI Intelligence Pipeline
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A Python-based AI Intelligence Pipeline that collects AI startups, AI products, research papers, AI jobs, and AI news from public sources, processes them using LLMs, and exports structured datasets.
 
-## Available Scripts
+## Project Overview
 
-In the project directory, you can run:
+GraphOne automates AI ecosystem data collection and processing. It combines asynchronous scraping, retry handling, payload chunking, entity mapping, and LLM orchestration into one pipeline.
 
-### `npm start`
+## Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+* Async scraping using `asyncio` and `aiohttp`
+* Retry Logic for HTTP 429 errors
+* Payload Chunking for HTTP 413 errors
+* LLM Fallback using Gemini Flash
+* Entity Mapping and data cleaning
+* CSV export for all processed datasets
+* Google Sheets integration
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Tech Stack
 
-### `npm test`
+* Python
+* Pandas
+* Requests
+* aiohttp
+* BeautifulSoup
+* Google Gemini API
+* Git & GitHub
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Project Structure
 
-### `npm run build`
+graphone-ai-pipeline/
+├── README.md
+├── architecture.pdf
+├── requirements.txt
+├── src/
+│ ├── async_startup_scraper.py
+│ ├── arxiv_scraper.py
+│ ├── product_scraper.py
+│ ├── jobs_scraper.py
+│ ├── news_scraper.py
+│ ├── jobs_scraper.py
+│ ├── llm_orchestrator.py
+│ ├── retry_utils.py
+│ └── chunking.py
+└── data/
+└── processed/
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Generated Datasets
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+| Dataset            | Records   |
+| ------------------ | --------- |
+| AI Startups        | 1432      |
+| AI Products        | 1000+     |
+| Research Papers    | 1000      |
+| AI Jobs            | 797       |
+| AI News            | 40        |
+| Entity Mapping Log | Generated |
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## How to Run
 
-### `npm run eject`
+Install dependencies:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```bash
+pip install -r requirements.txt
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Run ArXiv scraper:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```bash
+python src/arxiv_scraper.py
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Run LLM pipeline:
 
-## Learn More
+```bash
+python src/llm_orchestrator.py
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Output
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+All processed files are saved inside:
 
-### Code Splitting
+```text
+data/processed/
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Files include:
 
-### Analyzing the Bundle Size
+* startups.csv
+* products.csv
+* research_papers.csv
+* jobs.csv
+* news.csv
+* entity_mapping_log.csv
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Project Highlights
 
-### Making a Progressive Web App
+* Automated AI ecosystem data collection.
+* Structured CSV dataset generation.
+* Google Sheets integration.
+* Reliable API handling using retry logic and chunking.
+* Production-style AI data pipeline built using Python.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Author
 
-### Advanced Configuration
+**Aarti Patel**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+B.Tech Computer Science Engineering
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Shri Dadaji Institute of Technology and Science, Khandwa
